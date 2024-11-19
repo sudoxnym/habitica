@@ -79,7 +79,6 @@ async function updateUser (user) {
 export default async function processUsers () {
   let query = {
     migration: { $ne: MIGRATION_NAME },
-    'auth.local.username': { $in: [] }, // for test population
     'purchased.plan.customerId': { $exists: true },
     $or: [
       { 'purchased.plan.dateTerminated': { $exists: false } },
