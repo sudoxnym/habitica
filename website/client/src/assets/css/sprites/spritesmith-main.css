@@ -40112,6 +40112,41 @@
   width: 28px;
   height: 28px;
 }
+.notif_harvestfeast_base_mount {
+  background-image: url('https://habitica-assets.s3.amazonaws.com/mobileApp/images/notif_harvestfeast_base_mount.png');
+  width: 28px;
+  height: 28px;
+}
+.notif_harvestfeast_base_pet {
+  background-image: url('https://habitica-assets.s3.amazonaws.com/mobileApp/images/notif_harvestfeast_base_pet.png');
+  width: 28px;
+  height: 28px;
+}
+.notif_harvestfeast_base_set {
+  background-image: url('https://habitica-assets.s3.amazonaws.com/mobileApp/images/notif_harvestfeast_base_set.png');
+  width: 28px;
+  height: 28px;
+}
+.notif_harvestfeast_gilded_mount {
+  background-image: url('https://habitica-assets.s3.amazonaws.com/mobileApp/images/notif_harvestfeast_gilded_mount.png');
+  width: 28px;
+  height: 28px;
+}
+.notif_harvestfeast_gilded_pet {
+  background-image: url('https://habitica-assets.s3.amazonaws.com/mobileApp/images/notif_harvestfeast_gilded_pet.png');
+  width: 28px;
+  height: 28px;
+}
+.notif_harvestfeast_gilded_set {
+  background-image: url('https://habitica-assets.s3.amazonaws.com/mobileApp/images/notif_harvestfeast_gilded_set.png');
+  width: 28px;
+  height: 28px;
+}
+.notif_harvestfeast_pie {
+  background-image: url('https://habitica-assets.s3.amazonaws.com/mobileApp/images/notif_harvestfeast_pie.png');
+  width: 28px;
+  height: 28px;
+}
 .notif_head_special_nye {
   background-image: url('https://habitica-assets.s3.amazonaws.com/mobileApp/images/notif_head_special_nye.png');
   width: 28px;
