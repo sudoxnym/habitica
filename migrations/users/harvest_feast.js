@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
-const MIGRATION_NAME = '20241120_harvest_feast';
 import { model as User } from '../../website/server/models/user';
 
+const MIGRATION_NAME = '20241120_harvest_feast';
 const progressCount = 1000;
 let count = 0;
 
@@ -129,11 +129,11 @@ async function updateUser (user) {
 
   if (count % progressCount === 0) console.warn(`${count} ${user._id}`);
 
-  return await User.updateOne({_id: user._id}, updateOp).exec();
+  return User.updateOne({ _id: user._id }, updateOp).exec();
 }
 
 export default async function processUsers () {
-  let query = {
+  const query = {
     migration: { $ne: MIGRATION_NAME },
     'auth.timestamps.loggedin': { $gt: new Date('2024-10-20') },
   };
@@ -164,4 +164,4 @@ export default async function processUsers () {
 
     await Promise.all(users.map(updateUser)); // eslint-disable-line no-await-in-loop
   }
-};
+}

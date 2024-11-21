@@ -2,16 +2,15 @@
  * Award Habitoween ladder items to participants in this month's Habitoween festivities
  */
 /* eslint-disable no-console */
+import { model as User } from '../../website/server/models/user';
 
 const MIGRATION_NAME = '20241030_habitoween_ladder'; // Update when running in future years
-
-import { model as User } from '../../website/server/models/user';
 
 const progressCount = 1000;
 let count = 0;
 
 async function updateUser (user) {
-  count++;
+  count += 1;
 
   const set = { migration: MIGRATION_NAME };
   const inc = {
@@ -26,7 +25,7 @@ async function updateUser (user) {
     'items.food.Candy_Desert': 1,
     'items.food.Candy_Red': 1,
   };
-  let push = { notifications: { $each: [] }};
+  const push = { notifications: { $each: [] } };
 
   if (user && user.items && user.items.mounts && user.items.mounts['JackOLantern-RoyalPurple']) {
     push.notifications.$each.push({
@@ -138,13 +137,13 @@ async function updateUser (user) {
   }
 
   if (count % progressCount === 0) console.warn(`${count} ${user._id}`);
-  return await User.updateOne({_id: user._id}, {$inc: inc, $push: push, $set: set}).exec();
+  return User.updateOne({ _id: user._id }, { $inc: inc, $push: push, $set: set }).exec();
 }
 
 export default async function processUsers () {
-  let query = {
-    migration: {$ne: MIGRATION_NAME},
-    'auth.timestamps.loggedin': {$gt: new Date('2024-10-01')},
+  const query = {
+    migration: { $ne: MIGRATION_NAME },
+    'auth.timestamps.loggedin': { $gt: new Date('2024-10-01') },
   };
 
   const fields = {
@@ -156,7 +155,7 @@ export default async function processUsers () {
     const users = await User // eslint-disable-line no-await-in-loop
       .find(query)
       .limit(250)
-      .sort({_id: 1})
+      .sort({ _id: 1 })
       .select(fields)
       .lean()
       .exec();
@@ -173,4 +172,4 @@ export default async function processUsers () {
 
     await Promise.all(users.map(updateUser)); // eslint-disable-line no-await-in-loop
   }
-};
+}
