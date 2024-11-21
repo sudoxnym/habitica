@@ -429,6 +429,7 @@
   }
 
   .btn-update-card {
+    line-height: 1.714;
     border-radius: 4px;
     font-size: 14px;
     padding: 4px 12px;
@@ -647,6 +648,7 @@
     border-radius: 8px;
     box-shadow: 0px 1px 3px 0px rgba($black, 0.12), 0px 1px 2px 0px rgba($black, 0.24);
     width: 448px;
+    background-color: $white;
   }
 
   .svg-amazon-pay {
