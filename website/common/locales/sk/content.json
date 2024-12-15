@@ -61,7 +61,7 @@
     "questEggRoosterAdjective": "pyšný",
     "questEggSpiderText": "Pavúk",
     "questEggSpiderMountText": "Pavúk",
-    "questEggSpiderAdjective": "umelecký",
+    "questEggSpiderAdjective": "Umelecký",
     "questEggOwlText": "Sova",
     "questEggOwlMountText": "Sova",
     "questEggOwlAdjective": "múdra",
@@ -391,5 +391,6 @@
     "questEggRaccoonAdjective": "Pažravý",
     "questEggDogText": "Šteniatko",
     "questEggDogMountText": "Pes",
-    "questEggDogAdjective": "priateľský"
+    "questEggDogAdjective": "priateľský",
+    "hatchingPotionGingerbread": "Perník"
 }
