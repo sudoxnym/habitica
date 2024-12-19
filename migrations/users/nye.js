@@ -14,7 +14,7 @@ async function updateUser (user) {
   };
   const data = {
     title: 'Happy New Year!',
-    destination: 'inventory/equipment',
+    destination: '/inventory/equipment',
   };
 
   if (typeof user.items.gear.owned.head_special_nye2023 !== 'undefined') {
