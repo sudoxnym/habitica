@@ -258,5 +258,6 @@
     "subscriptionChangeAnnouncement": "<strong>Abonnementvorteile und die Art und Weise, wie sie ausgeschüttet werden, ändert sich am 19. November. </strong> <%= linkStart %>Klicke hier</a>, um mehr über diese Änderung zu lesen.",
     "earn2Gems": "Verdiene <strong>+2 Edelsteine</strong> für jeden Monat, in dem du abonniert hast",
     "subscribeAgainContinueHourglasses": "Erneuere Dein Abonnement, um weiterhin Mystische Sanduhren zu erhalten",
-    "mysterySet202411": "Borstenkämpfer Set"
+    "mysterySet202411": "Borstenkämpfer Set",
+    "mysterySet202501": "Frostbinder-Set"
 }

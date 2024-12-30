@@ -148,5 +148,7 @@
     "achievementBoneToPickModalText": "당신은 모든 스켈레톤 펫을 모았습니다!",
     "achievementWoodlandWizard": "우드랜드 마법사",
     "achievementWoodlandWizardText": "모든 표준색상의 숲의 피조물을 부화시켰습니다. 오소리, 곰, 사슴, 여우, 개구리, 고슴도치, 부엉이, 달팽이, 다람쥐 그리고 나무인간!",
-    "achievementWoodlandWizardModalText": "당신은 모든 숲의 펫을 모았습니다!"
+    "achievementWoodlandWizardModalText": "당신은 모든 숲의 펫을 모았습니다!",
+    "achievementBonelessBossModalText": "모든 무척추 펫을 모았습니다!",
+    "achievementBonelessBoss": "뼈없는 보스"
 }

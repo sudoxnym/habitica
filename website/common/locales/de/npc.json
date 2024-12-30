@@ -131,5 +131,6 @@
     "groupsPaymentAutoRenew": "Dieses Abonnement läuft automatisch weiter, bis es gekündigt wird. Du kannst es im Gruppen-Abrechnungs-Tab kündigen.",
     "sellItems": "Items verkaufen",
     "customizationsShopText": "Willst du deinen Style ändern? Hier bist du richtig! Wir haben die frischesten Looks, passend zur Saison, auf Lager.",
-    "notAvailable": "Dieser Gegenstand ist nicht verfügbar."
+    "notAvailable": "Dieser Gegenstand ist nicht verfügbar.",
+    "paymentYouSentSubscriptionG1G1": "Du hast <strong><%- name %></strong><br> ein <%= months %>-Monat(e)-Abo für Habitica geschickt und dasselbe Abo wurde deinem Account im Zuge der \"Schenk' Eins, Bekomm' Eins\"-Aktion gutgeschrieben!"
 }

@@ -3245,5 +3245,13 @@
     "headSpecialWinter2025RogueNotes": "Il y a clairement de la magie dans ce couvre-chef, parce qu'il vous transforme en bon·homme·ne femme de neige. Ne laissez pas les lapins s'approcher de votre nez en carotte. Augmente la Perception de <%= per %>. Équipement Édition Limitée Hiver 2024-2025.",
     "armorArmoireFestiveHelperOverallsText": "Salopette de l'Assistant·e des Fêtes",
     "armorArmoireFestiveHelperOverallsNotes": "Durable et confortable, cette salopette est idéale pour travailler, jouer, et aider les autres. Et en plus, elle a des poches ! Augmente la Constitution de <%= con %>. Armoire Enchantée : Ensemble Assistant·e des Fêtes (Objet 2 sur 2)",
-    "weaponSpecialWinter2025MageNotes": "Cet époustouflant et coloré spectacle constitue la toile de fond idéale ! Vous serez inarrêtable ! Augmente l'intelligence de <%= int %> et la perception de <%= per %>. Édition Limitée Équipement Hiver 2023-2024."
+    "weaponSpecialWinter2025MageNotes": "Cet époustouflant et coloré spectacle constitue la toile de fond idéale ! Vous serez inarrêtable ! Augmente l'intelligence de <%= int %> et la perception de <%= per %>. Édition Limitée Équipement Hiver 2023-2024.",
+    "armorArmoireSnowyFluffTrimmedCoatNotes": "Alors que les premiers flocons tomberont autour de vous, ce matin va non seulement vous garder au chaud, mais vous permettra également de vous fondre dans les décors enneigés. Glissez sur la glace avec classe ! Augmente la Force et l'Intelligence de <%= attrs %> chacune. Armoire Enchantée : Ensemble Chapeau de Trappeu·r·se des Neiges (Objet 2 sur 2).",
+    "headArmoireSnowyTrapperHatNotes": "Les oreilles bleues et pleine d'engelures feront partie du passé. Profitez du chaud confortablement et avec classe ! Augmente la Constitution et la Perception de <%= attrs %> chacune. Armoire Enchantée : Ensemble Chapeau de Trappeu·r·se des Neiges (Objet 1 sur 2).",
+    "armorArmoireSnowyFluffTrimmedCoatText": "Manteau de Fourrure des Neiges",
+    "headMystery202501Text": "Chapeau de l'Envoûteu·r·se de Glace",
+    "headMystery202501Notes": "Ce chapeau scintillant génère de la lumière et des flocons festifs autour de vous en tout temps. Ne confère aucun bonus. Équipement d'Abonnement Janvier 2025.",
+    "headArmoireSnowyTrapperHatText": "Chapeau de Trappeu·r·se des Neiges",
+    "shieldMystery202501Text": "Bâton de l'Envoûteu·r·se de Glace",
+    "shieldMystery202501Notes": "Décorez n'importe quel paysage avec un manteau diamanté de gel scintillant. Ne confère aucun bonus. Équipement d'Abonnement Janvier 2025."
 }
