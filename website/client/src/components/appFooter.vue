@@ -37,9 +37,9 @@
         <h3>{{ $t('footerCompany') }}</h3>
         <ul>
           <li>
-            <router-link to="/static/contact">
+            <a href="mailto:admin@habitica.com">
               {{ $t('contactUs') }}
-            </router-link>
+            </a>
           </li>
           <li>
             <router-link to="/static/press-kit">
