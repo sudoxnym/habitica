@@ -3253,5 +3253,15 @@
     "bodyArmoireKarateBlueBeltText": "Blauer Gürtel",
     "bodyArmoireKaratePurpleBeltText": "Violetter Gürtel",
     "eyewearMystery202303Text": "Verträumte Augen",
-    "eyewearSpecialAnniversaryText": "Habiticas Heldenmaske"
+    "eyewearSpecialAnniversaryText": "Habiticas Heldenmaske",
+    "shieldArmoireFancyFloralFanNotes": "Beende deinen bezaubernden Look mit diesem erstklassigen Fächer aus besonders blumiger Baumwolle. Erhöht Wahrnehmung um <%= per %>. Verzauberter Schrank: Bezauberndes Blumenset (Gegenstand 2 von 2).",
+    "armorMystery202502Notes": "Du bist voller gutmütiger Witze und Scherze, von deinem zerrupften Kragen bis zu deinen gigantischen Schuhen! Gewährt keinen Attributbonus. Februar 2025 Abonnentengegenstand.",
+    "armorMystery202502Text": "Herzvoller Harlekin Anzug",
+    "headMystery202502Text": "Herzvoller Harlekin Hut",
+    "headMystery202502Notes": "Dieses fröhliche Hütchen wird bei jedem, der dich sieht, für Freude sorgen! Gewährt keinen Attributbonus. Februar 2025 Abonnentengegenstand.",
+    "headArmoireFancyFloralHatText": "Bezaubernder Blumenhut",
+    "shieldMystery202502Text": "Herzvolle Harlekin Ballons",
+    "shieldMystery202502Notes": "Möge dein Herz an diesen Valentinstag, und auch jeden anderen Tag, so leicht sein wie diese beschwingten Luftballons. Gewährt keinen Attributbonus. Februar 2025 Abonnentengegenstand.",
+    "shieldArmoireFancyFloralFanText": "Bezaubernder Blumenfächer",
+    "headArmoireFancyFloralHatNotes": "Bestaune diesen bezaubernden Hut voller hinreißender Blumen und verschnörkelten Schnallen. Erhöht Intelligenz um <%= int %>. Verzauberter Schrank: Bezauberndes Blumen Zubehör Set (Gegenstand 1 von 2)."
 }

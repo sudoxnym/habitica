@@ -129,5 +129,6 @@
     "amountExp": "<%= amount %> Exp",
     "limitedAvailabilityDays": "Available for <%= days %>d <%= hours %>h <%= minutes %>m",
     "limitedAvailabilityHours": "Available for <%= hours %>h <%= minutes %>m",
-    "sellItems": "Sell Items"
+    "sellItems": "Sell Items",
+    "customizationsShopText": "Want to change up your style? You came to the right place! We stock the freshest looks to fit the season."
 }

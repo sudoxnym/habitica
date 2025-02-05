@@ -1,5 +1,5 @@
 {
-    "stable": "Establo",
+    "stable": "Mascotas y Monturas",
     "pets": "Mascotas",
     "activePet": "Mascota Activa",
     "noActivePet": "Sin Mascota Activa",
@@ -43,7 +43,7 @@
     "noFoodAvailable": "No tienes Comida para Mascotas.",
     "noSaddlesAvailable": "No tienes ninguna Silla de montar.",
     "dropsExplanation": "Consigue estos objetos más rápido con Gemas si no quieres esperar a que aparezcan como botín al completar una tarea. <a href=\"https://habitica.fandom.com/wiki/Drops\">Lee más acerca del sistema de botín.</a>",
-    "dropsExplanationEggs": "Gasta Gemas para conseguir huevos más rápido, si no quieres esperar que los huevos estándar te salgan en el botín, ni repetir Misiones para ganar huevos de Misión. <a href=\"https://habitica.fandom.com/es/wiki/Bot%C3%ADn\">Lee más sobre el sistema de botín.</a>",
+    "dropsExplanationEggs": "Gasta Gemas para conseguir huevos más rápidamente, si no quieres esperar que los huevos estándar te salgan en el botín, ni repetir Misiones para ganar huevos de Misión. <a href=\"https://habitica.fandom.com/es/wiki/Bot%C3%ADn\">Lee más sobre el sistema de botín.</a>",
     "premiumPotionNoDropExplanation": "Las Pociones de Eclosión Mágicas no pueden ser utilizadas con huevos obtenidos en Misiones. La única forma de conseguir Pociones de Eclosión Mágicas es comprándolas abajo, no salen del botín aleatorio.",
     "beastMasterProgress": "Progreso de Maestro de las Bestias",
     "beastAchievement": "¡Has ganado el Logro \"Maestro de las Bestias\" por haber coleccionado todas las mascotas!",
@@ -109,5 +109,7 @@
     "gryphatrice": "Grifotriz",
     "notEnoughFood": "No tienes suficiente comida",
     "invalidAmount": "Cantidad de comida inválida, debe ser un número entero positivo",
-    "tooMuchFood": "Estás intentando darle demasiada comida a tu mascota, acción cancelada"
+    "tooMuchFood": "Estás intentando darle demasiada comida a tu mascota, acción cancelada",
+    "veteranCactus": "Cáctus Veterano",
+    "veteranDragon": "Dragón Veterano"
 }

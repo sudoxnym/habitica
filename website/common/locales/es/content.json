@@ -392,5 +392,8 @@
     "questEggDogText": "Cachorro",
     "questEggDogMountText": "Perro",
     "questEggDogAdjective": "un amistoso",
-    "hatchingPotionGingerbread": "Pan de Jengibre"
+    "hatchingPotionGingerbread": "Pan de Jengibre",
+    "questEggCatText": "Gatita",
+    "questEggCatMountText": "Gato",
+    "questEggCatAdjective": "Traviesa"
 }

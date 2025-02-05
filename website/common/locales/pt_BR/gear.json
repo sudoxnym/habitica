@@ -156,7 +156,7 @@
     "weaponSpecialSpring2015RogueText": "Guinchado Explosivo",
     "weaponSpecialSpring2015RogueNotes": "Não deixe o som te enganar - esses explosivos são poderosos. Aumenta Força em <%= str %>. Equipamento de Edição Limitada. Primavera de 2015.",
     "weaponSpecialSpring2015WarriorText": "Clava de Osso",
-    "weaponSpecialSpring2015WarriorNotes": "É uma legítima clava de osso para cachorrinhos super ferozes e definitivamente não um brinquedo de mastigar que a Feiticeira Sazonal te deu porque quem é um bom garoto? Queeem é um bom garoto?? Você!!! Você é um bom garoto!!! Aumenta Força em <%= str %>. Equipamento de Edição Limitada da Primavera de 2015.",
+    "weaponSpecialSpring2015WarriorNotes": "É uma legítima clava de osso para cachorrinhos super ferozes e definitivamente não um brinquedo de mastigar que a Feiticeira Sazonal te deu, porque quem é um bom garoto? Queeem é um bom garoto?? Você!!! Tu és um bom garoto!!! Aumenta a Força em <%= str %>. Equipamento de Edição Limitada da Primavera de 2015.",
     "weaponSpecialSpring2015MageText": "Varinha de Mágico",
     "weaponSpecialSpring2015MageNotes": "Invoque uma cenoura para si mesmo com essa elegante varinha. Aumenta Inteligência em <%= int %> e Percepção em <%= per %>. Equipamento de Edição Limitada da Primavera de 2015.",
     "weaponSpecialSpring2015HealerText": "Matraca de Gato",

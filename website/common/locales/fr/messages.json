@@ -56,5 +56,7 @@
     "messagePetMountUnEquipped": "Familier et monture retirés.",
     "messageCostumeUnEquipped": "Costume retiré.",
     "messageBattleGearUnEquipped": "Équipement de combat retiré.",
-    "featureRetired": "Cette fonction n'existe plus."
+    "featureRetired": "Cette fonction n'existe plus.",
+    "beginningOfConversationReminder": "N'oubliez pas d'être sympathique, respectu·eu·se, et de respecter le Guide de la Communauté !",
+    "beginningOfConversation": "Vous êtes au début de votre conversation avec <%= userName %>."
 }

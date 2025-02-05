@@ -392,5 +392,8 @@
     "questEggDogText": "Welpe",
     "questEggDogMountText": "Hund",
     "questEggDogAdjective": "ein freundlicher",
-    "hatchingPotionGingerbread": "Lebkuchen"
+    "hatchingPotionGingerbread": "Lebkuchen",
+    "questEggCatText": "Kätzchen",
+    "questEggCatMountText": "Katze",
+    "questEggCatAdjective": "ein schelmisches"
 }

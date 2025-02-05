@@ -56,5 +56,7 @@
     "messageBattleGearUnEquipped": "Kampfausrüstung abgelegt.",
     "messageAllUnEquipped": "Alle Auswahlen aufgehoben.",
     "messageBackgroundUnEquipped": "Hintergrundauswahl aufgehoben.",
-    "featureRetired": "Diese Funktion wird nicht mehr unterstützt."
+    "featureRetired": "Diese Funktion wird nicht mehr unterstützt.",
+    "beginningOfConversation": "Dies ist der Beginn deiner Konversation mit <%= userName %>.",
+    "beginningOfConversationReminder": "Denke daran, nett und respektvoll zu sein und den Community-Richtlinien zu folgen!"
 }

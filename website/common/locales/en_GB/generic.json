@@ -237,5 +237,6 @@
     "bannedPlayer": "This player is banned.",
     "whyReportingPlayer": "Why are you reporting this player?",
     "whyReportingPlayerPlaceholder": "Reason for report",
-    "playerReportModalBody": "You should only report a player who violates the <%= firstLinkStart %>Community Guidelines<%= linkEnd %> and/or <%= secondLinkStart %>Terms of Service<%= linkEnd %>. Submitting a false report is a violation of Habitica’s Community Guidelines."
+    "playerReportModalBody": "You should only report a player who violates the <%= firstLinkStart %>Community Guidelines<%= linkEnd %> and/or <%= secondLinkStart %>Terms of Service<%= linkEnd %>. Submitting a false report is a violation of Habitica’s Community Guidelines.",
+    "titleCustomizations": "Customisations"
 }

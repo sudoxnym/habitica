@@ -259,5 +259,6 @@
     "subscribeAgainContinueHourglasses": "Suscríbete de nuevo para seguir recibiendo Relojes de Arena místicos",
     "unlockNGemsGift": "Ellos desbloquearan <strong><%= count %> Gemas </strong> al mes en el mercado",
     "maxGemCapGift": "Ellos tendrán el máximo <strong>Capacidad de Gemas</strong>",
-    "mysterySet202501": "Conjunto Vinculaescarcha Pálido"
+    "mysterySet202501": "Conjunto Vinculaescarcha Pálido",
+    "mysterySet202502": "Conjunto de Arlequín Sincero"
 }

@@ -428,5 +428,7 @@
     "readyToUpgrade": "¿Estás listo para Mejorar?",
     "interestedLearningMore": "¿Te gustaría saber más?",
     "checkGroupPlanFAQ": "Echa un vistazo a <a href='/static/faq#what-is-group-plan'>FAQ Planes Grupales</a> para saber cómo obtener el máximo de tu experiencia en tareas compartidas.",
-    "messageCopiedToClipboard": "Mensaje copiado en el portapapeles."
+    "copyAsTodo": "Copiar como Tareas Pendientes",
+    "messageAddedAsToDo": "Mensaje copiado como Tareas Pendientes.",
+    "copyMessageAsToDo": "Copia el mensaje como Tareas Pendientes"
 }

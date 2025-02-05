@@ -3253,5 +3253,15 @@
     "headMystery202501Notes": "Ce chapeau scintillant génère de la lumière et des flocons festifs autour de vous en tout temps. Ne confère aucun bonus. Équipement d'Abonnement Janvier 2025.",
     "headArmoireSnowyTrapperHatText": "Chapeau de Trappeu·r·se des Neiges",
     "shieldMystery202501Text": "Bâton de l'Envoûteu·r·se de Glace",
-    "shieldMystery202501Notes": "Décorez n'importe quel paysage avec un manteau diamanté de gel scintillant. Ne confère aucun bonus. Équipement d'Abonnement Janvier 2025."
+    "shieldMystery202501Notes": "Décorez n'importe quel paysage avec un manteau diamanté de gel scintillant. Ne confère aucun bonus. Équipement d'Abonnement Janvier 2025.",
+    "armorMystery202502Text": "Costume d'Arlequin Amical",
+    "armorMystery202502Notes": "Vous êtes plein de blagues et de plaisanteries bienveillantes, de votre col à volants à vos chaussures gigantesques ! Ne confère aucun bonus. Équipement d'Abonnement Février 2025.",
+    "headArmoireFancyFloralHatNotes": "Régalez vos yeux avec ce chapeau fantaisiste rempli de fleurs fantastiques et de fermetures à froufrous. Augmente l'intelligence de <%= int %>. Armoire enchantée : Accessoires Floraux Fantaisistes (Objet 1 sur 2).",
+    "shieldArmoireFancyFloralFanNotes": "Complétez votre look fantaisiste avec cet éventail de premier choix en tissu fleuri fabuleux. Augmente la perception de <%= par %>. Armoire enchantée : Accessoires Floraux Fantaisistes (Objet 2 sur 2).",
+    "headMystery202502Notes": "Ce petit chapeau joyeux inspirera certainement la joie à tous ceux qui vous verront ! Ne confère aucun bonus. Équipement d'abonnement de Février 2025.",
+    "headMystery202502Text": "Chapeau d'Arlequin Amical",
+    "headArmoireFancyFloralHatText": "Chapeau Floral Fantaisiste",
+    "shieldMystery202502Text": "Ballons d'Arlequin Amical",
+    "shieldMystery202502Notes": "Pour ce jour de St. Valentin et pour tous les jours, que votre cœur soit aussi léger que ces ballons flottants. Ne confère aucun bonus. Équipement d'abonnement de Février 2025.",
+    "shieldArmoireFancyFloralFanText": "Éventail Floral Fantaisiste"
 }
