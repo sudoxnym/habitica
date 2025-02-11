@@ -37,4 +37,5 @@ export default [
   'stable_Pet-Gryphatrice-Jubilant',
   'back_special_heroicAureole',
   'Pet-HatchingPotion-Funghi',
+  'shop_armoire',
 ];
