@@ -40,10 +40,10 @@
     "backerTier": "Támogatói szint",
     "playerTiers": "Játékos szintek",
     "tier": "Szint",
-    "conRewardsURL": "https://habitica.fandom.com/wiki/Contributor_Rewards",
+    "conRewardsURL": "https://github.com/HabitRPG/habitica/wiki/Contributing-to-Habitica#contributor-tier-rewards",
     "surveysSingle": "Segítette a Habitica fejlődését egy kérdőív kitöltésével vagy nagyobb tesztben való részvétellel. Köszönjük!",
     "surveysMultiple": "Segítette Habitica fejlődését <%= count %> alkalommal, egy kérdőív kitöltésével vagy nagyobb tesztben való részvétellel. Köszönjük!",
     "blurbHallPatrons": "Ez a Mecénások csarnoka, ahol megemlékezünk azokról a nemes kalandorokról, akik támogatták az eredeti Kickstarter projektet. Hálásak vagyunk, hogy a Habitica valósággá válhatott!",
-    "blurbHallContributors": "Ez a Közreműködők csarnoka, ahol Habiticát segítő nyílt forrású támogatókról emlékezünk meg. Akár programozással, grafikával, zenével, szöveggel vagy csak egyszerűen segítőkészséggel, ők azok akik kiérdemeltek <a href='https://habitica.fandom.com/wiki/Contributor_Rewards' target='_blank'> drágaköveket, exkluzív felszereléseket</a>, és <a href='https://habitica.fandom.com/wiki/Contributor_Titles' target='_blank'>dicsőséges titulusokat</a>. Te is támogathatod Habiticát! <a href='https://habitica.fandom.com/wiki/Contributing_to_Habitica' target='_blank'>Tudj meg erről többet itt.</a>",
+    "blurbHallContributors": "Ez a Közreműködők csarnoka, ahol a Habitica nyílt forráskódú hozzájárulóit tiszteljük. Legyen szó kódról, művészetről, zenéről, írásról vagy egyszerűen csak segítőkészségről, ők kiérdemelték a <a href='https://github.com/HabitRPG/habitica/wiki/Contributing-to-Habitica#contributor-tier-rewards' target='_blank'>gyémántokat, exkluzív felszereléseket</a> és a <a href='https://github.com/HabitRPG/habitica/wiki/Contributing-to-Habitica#contributor-tiers' target='_blank'>tekintélyes címeket</a>. Te is hozzájárulhatsz a Habiticához! <a href='https://github.com/HabitRPG/habitica/wiki/Contributing-to-Habitica' target='_blank'>Tudj meg többet itt.</a>",
     "noPrivAccess": "Nem rendelkezel a szükséges engedélyekkel."
 }

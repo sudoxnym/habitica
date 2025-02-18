@@ -91,12 +91,19 @@
     "viewProgressOf": "Ver o Progresso de",
     "viewProgress": "Ver Progresso",
     "selectMember": "Escolher Membro",
-    "confirmKeepChallengeTasks": "Deseja manter as tarefas do desafio?",
+    "confirmKeepChallengeTasks": "Deseja manter as tarefas do Desafio?",
     "selectParticipant": "Escolha um Participante",
     "wonChallengeDesc": "<%= challengeName %> escolheu-te como vencedor! A tua vitória foi adicionada às tuas Conquistas.",
     "yourReward": "A tua recompensa",
     "removeTasks": "Remover Tarefas",
     "filters": "Filtros",
     "messageChallengeFlagOfficial": "Os Desafios Oficiais não podem ser reportados.",
-    "messageChallengeFlagAlreadyReported": "Já reportou este Desafio."
+    "messageChallengeFlagAlreadyReported": "Já reportou este Desafio.",
+    "flaggedAndHidden": "Desafio sinalizado e ocultado",
+    "resetFlagCount": "Reiniciar Contagem da Sinalização",
+    "whyReportingChallenge": "Porque está a reportar este Desafio?",
+    "abuseFlagModalBodyChallenge": "Você só deve reportar um Desafio que viola as <%= firstLinkStart %>Community Guidelines<%= linkEnd %> e/ou <%= secondLinkStart %>Terms of Service<%= linkEnd %>. Sumbeter um relatório falso é uma violação das Diretrizes da Comunidade.",
+    "whyReportingChallengePlaceholder": "Razão para reportar",
+    "flaggedNotHidden": "Desafio sinalizado uma vez, não ocultado",
+    "cannotClose": "Este Desafio não pode ser fechado porque um ou mais jogadores o reportaram como inapropriado. Um membro da equipa vai contactá-lo em breve com instruções. Se passarem mais de 48 horas e ainda não tiver recebido uma resposta, por favor envie um e-mail para admin@habitica.com para pedir suporte."
 }

@@ -25,7 +25,7 @@
     "user": "Felhasználó",
     "market": "Piac",
     "newSubscriberItem": "Új <span class=\"notification-bold-blue\">rejtélyes tárgyak</span> elérhetőek",
-    "subscriberItemText": "Minden hónapban az előfizetők kapnak egy rejtélyes tárgyat. Ez általában minden hónap vége előtt egy héttel lesz elérhető. Erről a wiki 'Rejtélyes tárgyak' oldalán találhatsz több információt.",
+    "subscriberItemText": "Az előfizetők minden hónap elején egy új rejtélyes felszereléskészletet kapnak!",
     "all": "Összes",
     "none": "Semelyik",
     "more": "<%= count %> darabbal több",

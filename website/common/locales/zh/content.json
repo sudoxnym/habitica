@@ -392,5 +392,8 @@
     "questEggDogMountText": "狗",
     "questEggDogAdjective": "一只友好的",
     "questEggDogText": "幼犬",
-    "hatchingPotionGingerbread": "姜饼"
+    "hatchingPotionGingerbread": "姜饼",
+    "questEggCatText": "小猫",
+    "questEggCatMountText": "猫",
+    "questEggCatAdjective": "一只顽皮的"
 }

@@ -25,7 +25,7 @@
     "user": "用户",
     "market": "市场",
     "newSubscriberItem": "你有新的<span class=\"notification-bold-blue\">神秘物品</span>",
-    "subscriberItemText": "订阅者每个月都会收到一件神秘物品。该物品在每月月初推出。详情请查看Wiki“神秘物品”页面。",
+    "subscriberItemText": "订阅者每个月初都能收到一套新的神秘装备套装！",
     "all": "全部",
     "none": "无",
     "more": "<%= count %>更多",

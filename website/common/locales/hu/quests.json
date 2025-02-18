@@ -50,7 +50,7 @@
     "notPartOfQuest": "Nem veszel részt ezen a küldetésen",
     "youAreNotOnQuest": "Nem veszel részt egy küldetésen sem",
     "noActiveQuestToAbort": "Nincs aktuális küldetés, amit meg lehetne szakítani.",
-    "onlyLeaderAbortQuest": "Csak a csapat vagy a küldetés vezetője szakíthat meg egy  küldetést.",
+    "onlyLeaderAbortQuest": "Csak a csoportvezető vagy a küldetés vezetője szakíthatja meg a küldetést.",
     "questAlreadyRejected": "Már elutasítottad ezt a küldetés meghívót.",
     "cantCancelActiveQuest": "Nem tudsz visszavonni egy aktív küldetést, helyette használd a megszakítás funkciót.",
     "onlyLeaderCancelQuest": "Csak a csapat vagy a küldetés vezetője vonhatja vissza a küldetést.",

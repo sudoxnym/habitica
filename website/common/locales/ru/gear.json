@@ -2915,7 +2915,7 @@
     "weaponSpecialWinter2024MageNotes": "Волшебный нарвал увидел ваш потенциал. Он подарил вам свой рог, благодаря которому даже малейшие изменения не останутся незамеченными. Увеличивает интеллект на <%= int %>. Эксклюзивный предмет \"Зима 2023-2024\".",
     "weaponArmoireScholarlyTextbooksNotes": "Тебе выпал шанс погрызть гранит науки. Кстати, какая у тебя сейчас гиперфиксация? Увеличивает интеллект на <%= int %>. Снова в школу, набор (предмет 3 из 4).",
     "weaponSpecialWinter2024RogueText": "Наручи белой совы",
-    "weaponSpecialWinter2024WarriorText": "Конфетный клуб",
+    "weaponSpecialWinter2024WarriorText": "Конфетная дубинка",
     "weaponSpecialWinter2024MageText": "Рог нарвала",
     "weaponSpecialWinter2024HealerText": "Факел",
     "weaponSpecialWinter2024HealerNotes": "Протопи себе путь! Увеличивает интеллект на <%= int %>. Эксклюзивный предмет \"Зима 2023-2024\".",

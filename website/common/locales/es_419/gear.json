@@ -2526,5 +2526,7 @@
     "weaponSpecialFall2023MageText": "Bastón Brillante",
     "weaponSpecialFall2023MageNotes": "Este bastón brillante, con un cristal en su núcleo, hace que la magia surja de lo mundano. Aumenta la inteligencia en <%= int %>. Edición limitada de otoño de 2023.",
     "weaponSpecialFall2023HealerText": "Martillo Tronco Grande",
-    "weaponSpecialFall2023HealerNotes": "Este martillo retorcido, con ataques lentos y pesados, inflige golpes curativos en lugar de daño. Aumenta la inteligencia en <%= int %>. Edición limitada de equipo de otoño de 2023."
+    "weaponSpecialFall2023HealerNotes": "Este martillo retorcido, con ataques lentos y pesados, inflige golpes curativos en lugar de daño. Aumenta la inteligencia en <%= int %>. Edición limitada de equipo de otoño de 2023.",
+    "weaponSpecialSpring2024MageText": "Bastón de Hibisco",
+    "weaponSpecialSpring2024RogueText": "Cuchillo de Plata"
 }

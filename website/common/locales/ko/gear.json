@@ -5,7 +5,7 @@
     "groupBy": "<%= type %> 에 따른 그룹",
     "classBonus": "(이 아이템은 당신의 직업용 장비입니다, 그러므로 1.5배의 추가적인 스텟을 얻게됩니다.)",
     "classArmor": "직업 갑옷",
-    "featuredset": "Featured Set <%= name %>",
+    "featuredset": "특별상품 <%= name %>",
     "mysterySets": "미스테리 세트",
     "gearNotOwned": "이 아이템을 가지고 있지 않습니다.",
     "noGearItemsOfType": "이중 아무것도 가지지않고있습니다.",

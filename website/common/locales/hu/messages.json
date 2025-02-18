@@ -56,5 +56,7 @@
     "messagePetMountUnEquipped": "Háziállat és hátas eltávolítva.",
     "messageCostumeUnEquipped": "Jelmez eltávolítva.",
     "messageBattleGearUnEquipped": "Harci felszerelés eltávolítva.",
-    "featureRetired": "Ez a funkció már nem támogatott."
+    "featureRetired": "Ez a funkció már nem támogatott.",
+    "beginningOfConversation": "Ez a beszélgetésed kezdete vele: <%= userName %>.",
+    "beginningOfConversationReminder": "Ne feledd, légy kedves, tisztelettudó, és tartsd be a Közösségi Irányelveket!"
 }
