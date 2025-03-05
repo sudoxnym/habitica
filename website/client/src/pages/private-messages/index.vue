@@ -1027,19 +1027,58 @@ export default defineComponent({
         this.scrollToBottom();
       }, 150);
     },
-    scrollToBottom () {
-      if (!this.$refs.chatscroll) {
+    /**
+     * This method does a couple of things:
+     * - first round:
+     *    - tries to scroll down
+     *    - in the next tick it triggers it again
+     *      (during testing it seemed that the first trigger still had some space left to scroll)
+     * - 2nd round:
+     *    - tries to scroll down
+     *    - in the next tick it checks if the scrollTop is to most it can scroll down,
+     *        if it is, it stops from doing that again
+     *        if not, it goes into the next round
+     * - if we reach round 6 it stops completely,
+     *    no need to have a endless loop of just scrolling down
+     */
+    scrollToBottom (callCount = 0) {
+      if (callCount > 5) {
         return;
       }
-      const chatscrollBeforeTick = this.$refs.chatscroll.$el;
-      chatscrollBeforeTick.scrollTop = chatscrollBeforeTick.scrollHeight;
+
+      if (!this.$refs.chatscroll) {
+        // if the message list component not loaded yet, but scrollToBottom was called
+        // just try again at a later time
+        setTimeout(() => {
+          this.scrollToBottom(callCount + 1);
+        }, 125);
+        return;
+      }
+
+      const chatscrollEl = this.$refs.chatscroll.$el;
+      // chatscrollBeforeTick.scrollTop = chatscrollBeforeTick.scrollHeight;
+      chatscrollEl.scrollTo(0, chatscrollEl.scrollHeight);
 
       Vue.nextTick(() => {
         if (!this.$refs.chatscroll) {
           return;
         }
-        const chatscroll = this.$refs.chatscroll.$el;
-        chatscroll.scrollTop = chatscroll.scrollHeight;
+
+        let shouldRetrigger = true;
+
+        if (callCount > 1) {
+          const maxPossibleScrollPos = chatscrollEl.scrollHeight - chatscrollEl.clientHeight;
+
+          if (chatscrollEl.scrollTop === maxPossibleScrollPos) {
+            shouldRetrigger = false;
+          }
+        }
+
+        if (shouldRetrigger) {
+          setTimeout(() => {
+            this.scrollToBottom(callCount + 1);
+          }, 125);
+        }
       });
     },
     infiniteScrollTrigger () {
