@@ -3285,5 +3285,7 @@
     "headSpecialSpring2025RogueText": "Kristallnadel-Hut",
     "headSpecialSpring2025RogueNotes": "Die Kristalle in diesem Hut ermuntern zu produktiver Energie und leuchten außerdem hell, damit du zu jeder Tages- und Nachtzeit arbeiten kannst. Erhöht Wahrnehmung um <%= per %>. Limitierte Ausgabe 2025 Frühlingsausrüstung.",
     "headSpecialSpring2025HealerText": "Plumeria Kopfschmuck",
-    "headSpecialSpring2025HealerNotes": "Diese Blume symbolisiert Geburt, Liebe und Neubeginn! Sie verbreitet auch einen schönen Duft, den du genießen kannst, während du an deinen Aufgaben arbeitest. Erhöht Intelligenz um <%= int %>. Limitierte Ausgabe 2025 Frühlingsausrüstung."
+    "headSpecialSpring2025HealerNotes": "Diese Blume symbolisiert Geburt, Liebe und Neubeginn! Sie verbreitet auch einen schönen Duft, den du genießen kannst, während du an deinen Aufgaben arbeitest. Erhöht Intelligenz um <%= int %>. Limitierte Ausgabe 2025 Frühlingsausrüstung.",
+    "headSpecialSpring2025MageText": "Fangschrecken Maske",
+    "headSpecialSpring2025MageNotes": "Die Fangschrecke ist bekannt dafür, sich zu tarnen oder sich langsam zu bewegen. Wähle eine Taktik zu Hilfe für jedes einzelne Ziel, sei aber gewiss, daß du Taktiken jederzeit ändern kannst, wenn du musst. Erhöht Wahrnehmung um <%= per %>. Limitierte Ausgabe 2025 Frühlingsausrüstung."
 }
