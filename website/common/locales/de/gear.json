@@ -3287,5 +3287,15 @@
     "headSpecialSpring2025HealerText": "Plumeria Kopfschmuck",
     "headSpecialSpring2025HealerNotes": "Diese Blume symbolisiert Geburt, Liebe und Neubeginn! Sie verbreitet auch einen schönen Duft, den du genießen kannst, während du an deinen Aufgaben arbeitest. Erhöht Intelligenz um <%= int %>. Limitierte Ausgabe 2025 Frühlingsausrüstung.",
     "headSpecialSpring2025MageText": "Fangschrecken Maske",
-    "headSpecialSpring2025MageNotes": "Die Fangschrecke ist bekannt dafür, sich zu tarnen oder sich langsam zu bewegen. Wähle eine Taktik zu Hilfe für jedes einzelne Ziel, sei aber gewiss, daß du Taktiken jederzeit ändern kannst, wenn du musst. Erhöht Wahrnehmung um <%= per %>. Limitierte Ausgabe 2025 Frühlingsausrüstung."
+    "headSpecialSpring2025MageNotes": "Die Fangschrecke ist bekannt dafür, sich zu tarnen oder sich langsam zu bewegen. Wähle eine Taktik zu Hilfe für jedes einzelne Ziel, sei aber gewiss, daß du Taktiken jederzeit ändern kannst, wenn du musst. Erhöht Wahrnehmung um <%= per %>. Limitierte Ausgabe 2025 Frühlingsausrüstung.",
+    "headMystery202503Text": "Jade Juggernaut Haar",
+    "headMystery202503Notes": "Diese grüne Frisur passt perfekt zu einem tapferen Krieger und Verteidiger des Planeten. Gewährt keinen Attributbonus. März 2025 Abonnentengegenstand.",
+    "armorArmoireSpringPetalYukataText": "Frühlingsblüten Yukata",
+    "armorArmoireSpringPetalYukataNotes": "Diesen Yukata kann man perfekt zum Feiern des kommenden Frühlings anziehen. Stell sicher, daß du für ein Foto neben Kirschblüten posierst. Erhöht Ausdauer und Stärke um jeweils <%= attrs %> . Verzauberter Schrank: Frühlingsblüten Set (Gegenstand 1 von 2).",
+    "shieldSpecialSpring2025RogueText": "Kristallspitzen-Flegel",
+    "shieldSpecialSpring2025RogueNotes": "Du kannst den Kristall nutzen, um eine produktive Zukunft für dich weiszusagen. Nutze die Gelegenheit und spring vorwärts! Erhöht Stärke um <%= str %>. Limitierte Ausgabe 2025 Frühlingsausrüstung.",
+    "shieldSpecialSpring2025HealerText": "Plumeria Schild",
+    "shieldSpecialSpring2025HealerNotes": "Du kannst dieses spezielle Blütenblatt verwenden, um Güte zu sammeln oder um negative Gedanken wegzuschnipsen. Nutze die Gelegenheit und spring vorwärts! Erhöht Ausdauer um <%= con %>. Limitierte Ausgabe 2025 Ausrüstung.",
+    "shieldSpecialSpring2025WarriorText": "Sonnenstrahl Schild",
+    "shieldSpecialSpring2025WarriorNotes": "Du kannst deine Gegner für den Moment blenden, wenn die Sonne diesen Schild genau richtig trifft. Nutze den Vorteil und spring vorwärts! Erhöht Ausdauer um <%= con %>. Limitierte Ausgabe 2025 Frühlingsausrüstung."
 }

@@ -125,7 +125,7 @@
     "webhookBooleanOption": "“<%= option %>”必须是一个布尔值。",
     "webhookIdAlreadyTaken": "id是<%= id %>的webhook已经存在。",
     "noWebhookWithId": "没有id是<%= id %>的webhook。",
-    "regIdRequired": "需要RegId",
+    "regIdRequired": "RegId必填",
     "pushDeviceAdded": "成功添加推送设备",
     "pushDeviceNotFound": "用户还没有用这个id的推送设备。",
     "pushDeviceRemoved": "成功移除推送设备。",
@@ -175,7 +175,7 @@
     "transaction_spend": "<b>使用</b>在",
     "transaction_gift_send": "<b>送给</b>",
     "transaction_gift_receive": "<b>收到</b>自",
-    "transaction_create_challenge": "<b>创建</b>挑战",
+    "transaction_create_challenge": "<b>已创建</b>挑战",
     "transaction_create_guild": "<b>创建</b>公会",
     "transaction_rebirth": "使用重生球",
     "transaction_release_mounts": "放走坐骑",
@@ -257,5 +257,6 @@
     "remove": "移除",
     "resetTextLocal": "如果您已确定，请在下方的文本框中输入您的密码。",
     "resetTextSocial": "如果您已确定，请在下方的文本框中输入 <b>\"<%=magicWord %>\"</b>。",
-    "contentRelease": "内容发布与活动"
+    "contentRelease": "内容发布与活动",
+    "transaction_subscription_bonus": "<b>订阅</b>奖励"
 }
