@@ -58,7 +58,7 @@
     "questOrGroupLeaderOnlyStartQuest": "只有副本发起者或团队队长才能强制开始一个副本",
     "loginIncentiveQuest": "你还需要登录Habitica再签到<%= count %>天才能解锁此副本！",
     "loginReward": "<%= count %>次签到",
-    "questBundles": "打折的副本包",
+    "questBundles": "打折中的副本包",
     "noQuestToStart": "点击<a href=\"<%= questShop %>\">副本商店</a>查看是否有新商品！",
     "pendingDamage": "<%= damage %>点待结算伤害",
     "pendingDamageLabel": "待结算伤害",
