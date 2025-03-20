@@ -3297,5 +3297,9 @@
     "shieldSpecialSpring2025HealerText": "Plumeria Schild",
     "shieldSpecialSpring2025HealerNotes": "Du kannst dieses spezielle Blütenblatt verwenden, um Güte zu sammeln oder um negative Gedanken wegzuschnipsen. Nutze die Gelegenheit und spring vorwärts! Erhöht Ausdauer um <%= con %>. Limitierte Ausgabe 2025 Ausrüstung.",
     "shieldSpecialSpring2025WarriorText": "Sonnenstrahl Schild",
-    "shieldSpecialSpring2025WarriorNotes": "Du kannst deine Gegner für den Moment blenden, wenn die Sonne diesen Schild genau richtig trifft. Nutze den Vorteil und spring vorwärts! Erhöht Ausdauer um <%= con %>. Limitierte Ausgabe 2025 Frühlingsausrüstung."
+    "shieldSpecialSpring2025WarriorNotes": "Du kannst deine Gegner für den Moment blenden, wenn die Sonne diesen Schild genau richtig trifft. Nutze den Vorteil und spring vorwärts! Erhöht Ausdauer um <%= con %>. Limitierte Ausgabe 2025 Frühlingsausrüstung.",
+    "shieldArmoireSpringPetalUchiwaNotes": "Dieser tragbare Fächer mit schönem Blütenmuster bewirkt eine leichte Brise nur für dich, wenn das Wetter wärmer wird. Erhöht Intelligenz und Wahrnehmung um jeweils <%= attrs %>. Verzauberter Schrank: Frühlingsblüten Set (Gegenstand 2 von 2).",
+    "shieldArmoireSpringPetalUchiwaText": "Frühlingsblütenfächer",
+    "eyewearMystery202503Text": "Jade Juggernaut Augen",
+    "eyewearMystery202503Notes": "Dieser stechende Blick wird jeden Kämpfer, der es wagt, dich herauszufordern, in Panik versetzen! Gewährt keinen Attributbonus. März 2025 Abonnentengegenstand."
 }
