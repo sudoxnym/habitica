@@ -19,7 +19,7 @@
     "webFaqAnswer30": "Se seus Pontos de Vida chegarem a zero, você perderá um nível, todo o seu Ouro e uma peça de Equipamento que pode ser recomprada.",
     "faqQuestion31": "Por que perdi Pontos de Vida ao interagir com uma tarefa não negativa?",
     "webFaqAnswer31": "Se você completar uma tarefa e perder Pontos de Vida quando não deveria, você encontrou um atraso enquanto o servidor está sincronizando as alterações feitas em outras plataformas. Por exemplo, se você usar Ouro, Mana ou perder Pontos de Vida no aplicativo para celular e depois completar uma tarefa no site, o servidor está apenas confirmando que tudo está sincronizado.",
-    "faqQuestion32": "Quando posso escolher uma classe?",
+    "faqQuestion32": "Como posso escolher uma classe?",
     "webFaqAnswer32": "Existem quatro classes no Habitica: Guerreiro, Mago, Ladino e Curandeiro. Todos os jogadores começam como Guerreiro até atingirem o nível 10. Depois de alcançar o nível 10, você terá a opção de escolher entre selecionar uma nova classe ou continuar como Guerreiro.\n\nCada classe possui Equipamentos e Habilidades diferentes. Se você não quiser escolher uma classe, pode selecionar \"Abster-se\". Se optar por abster-se, você sempre poderá ativar o Sistema de Classes nas Configurações mais tarde.",
     "faqQuestion33": "O que é a barra azul que aparece após o nível 10?",
     "webFaqAnswer33": "Após desbloquear o Sistema de Classes, você também desbloqueia Habilidades que requerem Mana para serem lançadas. A Mana é determinada pelo seu atributo INT e pode ser ajustada por meio de Habilidades e Equipamentos.",
@@ -162,5 +162,6 @@
     "contentAnswer11": "Quando novos jogadores se juntam às Festas de Gala, muitas vezes não conhecem esses eventos e acabam perdendo a diversão. Queremos garantir que eles possam participar de nossas festividades sazonais, independentemente de quando iniciem suas jornadas.",
     "contentAnswer21": "Todos os itens de Gala (Equipamentos de classe, Peles e Cores de Cabelo, Itens de Transformação, Missões Sazonais) serão lançados no início da festividade e estarão disponíveis durante todo o período em que ela estiver ativa.",
     "contentAnswer22": "As Poções Mágicas de Eclosão não estarão mais associadas às Galas e, em vez disso, seguirão um cronograma de lançamento mensal próprio, com tema nas festividades em andamento.",
-    "contentAnswer30": "As lojas irão alternar uma seleção de seus itens a cada mês. Isso contribuirá para que a quantidade de conteúdo nas lojas seja mais organizada e simples de explorar. O novo cronograma oferecerá itens inéditos para os jogadores novos, enquanto cria um cronograma previsível para os colecionadores veteranos."
+    "contentAnswer30": "As lojas irão alternar uma seleção de seus itens a cada mês. Isso contribuirá para que a quantidade de conteúdo nas lojas seja mais organizada e simples de explorar. O novo cronograma oferecerá itens inéditos para os jogadores novos, enquanto cria um cronograma previsível para os colecionadores veteranos.",
+    "subscriptionDetail47": "Eu tenho uma assinatura de Plano de time, como isso me afeta?"
 }

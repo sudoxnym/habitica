@@ -18,12 +18,12 @@
     "welcomeToTavern": "Vitaj v Hostinci!",
     "sleepDescription": "Potrebuješ pauzu? Pozastav poškodenie (nájdeš v nastaveniach) pre pozastavenie, niektorých náročnejších herných mechaník Habitici:",
     "sleepBullet1": "Tvoje vynechané denné úlohy ťa nezrania (bossovia však budú stále spôsobovať poškodenie za denné úlohy, ktoré nesplnili členovia tvojej družiny)",
-    "sleepBullet2": "Tasks won't lose streaks or decay in color",
-    "sleepBullet3": "Bosses won't do damage for your missed Dailies",
+    "sleepBullet2": "Počítadlá denných úloh a návykov sa nezresetujú.",
+    "sleepBullet3": "Tvoje poškodenie udelené bossom z výprav alebo objavené zberateľské predmety zostanú čakajúce až dokiaľ si opäť nepovolíš poškodenie",
     "pauseDailies": "Pause Damage",
     "unpauseDailies": "Unpause Damage",
     "staffAndModerators": "Staff and Moderators",
-    "communityGuidelinesIntro": "Habitica tries to create a welcoming environment for users of all ages and backgrounds, especially in public spaces like the Tavern. If you have any questions, please consult our <a href='/static/community-guidelines' target='_blank'>Community Guidelines</a>.",
+    "communityGuidelinesIntro": "Habitica sa snaží vytvoriť prostredie vítajúce používateľov akéhokoľvek veku a pôvodu, špeciálne v priestoroch skupín a družín. Pokiaľ by si mal akékoľvek otázky, prosím obráť sa na naše <a href='/static/community-guidelines' target='_blank'>Pravidlá pre komunitu</a>.",
     "acceptCommunityGuidelines": "I agree to follow the Community Guidelines",
     "worldBossEvent": "World Boss Event",
     "worldBossDescription": "World Boss Description",
@@ -113,5 +113,10 @@
     "welcome2notes": "To, ako robíš tvoje úlohy v skutočnom živote ovplyvní to, ako sa ti bude dariť v hre!",
     "welcome3": "Pokroč v živote aj v hre!",
     "welcome3notes": "S vylepšovaním tvojho života získa tvoj avatar level a odomkneš zvieratká, výpravy, výstroj a mnoho iného!",
-    "limitedOffer": "Available until <%= date %>"
+    "limitedOffer": "Available until <%= date %>",
+    "customizationsShopText": "Chcel by si zmeniť svoj štýl? Tak si prišiel na to správne miesto! Ponúkame tie najčerstvejšie doplnky ladiace s aktuálnou sezónou.",
+    "amountExp": "<%= amount %> Exp",
+    "nGems": "<%= nGems %> Drahokamov",
+    "sellItems": "Predaj predmety",
+    "nGemsGift": "<%= nGems %> Drahokamov (Dar)"
 }

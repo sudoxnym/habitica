@@ -3097,5 +3097,22 @@
     "weaponSpecialWinter2025HealerText": "Varinha de condão",
     "weaponSpecialWinter2025HealerNotes": "Quanto maior seu brilho, mais potente é seu poder. Aumenta a Inteligência em <%= int %> e a Percepção em <%= per %>. Equipamento de primavera de edição limitada de 2023.",
     "weaponSpecialWinter2025MageNotes": "Este show deslumbrante e colorido fornece o cenário perfeito! Você será imparável! Aumenta a Inteligência em <%= int %> e a Percepção em <%= per %>. Equipamento de inverno de edição limitada de 2024-2025.",
-    "weaponSpecialFall2024RogueText": "Varinha de fita"
+    "weaponSpecialFall2024RogueText": "Varinha de fita",
+    "weaponSpecialSpring2025RogueNotes": "Com um golpe, você pode destruir qualquer obstáculo no caminho das suas metas. Aumenta Força em <%= str %>. Equipamento de Edição Limitada da primavera de 2025.",
+    "weaponSpecialSpring2025MageText": "Cajado de Louva-a-deus",
+    "armorSpecialWinter2025MageText": "Capa da Aurora",
+    "weaponArmoireSpookyCandyBucketNotes": "Com uma fantasia dessas, você vai pegar muito doce! Sorte que você tem esse balde infinito para guardar todos eles. Tente não belisca-los até chegar em casa. Aumenta Inteligência em <%=int%>.Armário Encantado Conjunto Noite dos Sustos (Item 2 de 2)",
+    "armorSpecialWinter2025RogueText": "Fantasia de Neve",
+    "armorSpecialSummer2024MageText": "Cauda de Anêmona",
+    "weaponArmoireSpookyCandyBucketText": "Balde de Doces Assustador",
+    "armorSpecialSummer2024RogueText": "Cauda de Nudibrânquio",
+    "armorSpecialSummer2024HealerText": "Armadura de Lesma-do-mar",
+    "armorSpecialSummer2024RogueNotes": "Você pode ser uma Lesma-do-mar sem um casco, mas quem precisa disso quando se tem asas! Aumenta Percepção em <%= per %>. Equipamento de Edição Limitada do Verão de 2024.",
+    "armorSpecialFall2024WarriorNotes": "Se torne um com as chamas e fique imune aos seus poderes destrutivos com essa armadura! Aumenta Constituição em <%= con %>. Item de Edição Limitada do Outono de 2024.",
+    "armorSpecialFall2024RogueText": "Armadura de Gato Negro",
+    "armorSpecialFall2024HealerText": "Armadura de Invasor Espacial",
+    "armorSpecialFall2024MageText": "Armadura do Feiticeiro do Submundo",
+    "armorSpecialSummer2024HealerNotes": "Não dê ouvidos aos pessimistas. Devagar e sempre é uma ótima maneira de lidar com as suas tarefas! Aumenta Constituição em <%= con %>. Item de Edição Limitada do Verão de 2024.",
+    "armorSpecialFall2024RogueNotes": "Se torne um com as trevas e se torne mais ágil e furtivo com essa armadura. Aumenta Percepção em <%= per %>. Item de Edição Limitada do Outono de 2024.",
+    "armorSpecialWinter2025RogueNotes": "Por mais que pareça que você está coberto em neve fria, você está quentinho, confortável e alegre quando usa essa fantasia! Aumenta Percepção em <%= per %>. Item de Edição Limitada do Inverno de 2024-2025."
 }

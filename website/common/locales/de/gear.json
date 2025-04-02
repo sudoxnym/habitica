@@ -3301,5 +3301,17 @@
     "shieldArmoireSpringPetalUchiwaNotes": "Dieser tragbare Fächer mit schönem Blütenmuster bewirkt eine leichte Brise nur für dich, wenn das Wetter wärmer wird. Erhöht Intelligenz und Wahrnehmung um jeweils <%= attrs %>. Verzauberter Schrank: Frühlingsblüten Set (Gegenstand 2 von 2).",
     "shieldArmoireSpringPetalUchiwaText": "Frühlingsblütenfächer",
     "eyewearMystery202503Text": "Jade Juggernaut Augen",
-    "eyewearMystery202503Notes": "Dieser stechende Blick wird jeden Kämpfer, der es wagt, dich herauszufordern, in Panik versetzen! Gewährt keinen Attributbonus. März 2025 Abonnentengegenstand."
+    "eyewearMystery202503Notes": "Dieser stechende Blick wird jeden Kämpfer, der es wagt, dich herauszufordern, in Panik versetzen! Gewährt keinen Attributbonus. März 2025 Abonnentengegenstand.",
+    "armorMystery202504Text": "Scheues Yeti Rüstung",
+    "armorMystery202504Notes": "Abscheulich? Eher anbetungswürdig! Gewährt keinen Attributbonus. April 2025 Abonnentengegenstand.",
+    "armorArmoireSillyOrangeTuxedoText": "Alberner Orangen-Smoking",
+    "armorArmoireSillyOrangeTuxedoNotes": "Dein eigener persönlicher Anzug des Tages. Erhöht Ausdauer um <%= con %>. Verzauberter Schrank: Lächerlicher Smoking Set (Gegenstand 1 von 2).",
+    "armorArmoireSillierBlueTuxedoNotes": "Verbreite Stimmung in diesem einzigartigen Outfit. Erhöht Stärke um <%= str %>. Verzauberter Schrank: Noch Lächerlicherer Smoking Set (Gegenstand 1 von 2).",
+    "armorArmoireSillierBlueTuxedoText": "Noch Lächerlicherer Blauer Smoking",
+    "headMystery202504Text": "Scheues Yeti Kutte",
+    "headArmoireSillyOrangeTophatText": "Alberner Orangen-Zylinder",
+    "headArmoireSillyOrangeTophatNotes": "Passt gut zu einem Kürbiskuchen-Haarschnitt. Erhöht Stärke und Ausdauer um jeweils <%= attrs %>. Verzauberter Schrank: Lächerlicher Smoking Set (Gegenstand 2 von 2).",
+    "headArmoireSillierBlueTophatText": "Noch Lächerlicherer Blauer Zylinder",
+    "headMystery202504Notes": "Trage diese mysteriöse Visage, um unentdeckt unter den oskursten Fabelwesen der Welt zu verweilen. Gewährt keinen Attributbonus. April 2025 Abonnentengegenstand.",
+    "headArmoireSillierBlueTophatNotes": "Etwas Klasse, etwas Raffinesse. Erhöht Stärke und Ausdauer um jeweils <%= attrs %>. Verzauberter Schrank: Noch Lächerlicherer Smoking Set (Gegenstand 2 von 2)."
 }
