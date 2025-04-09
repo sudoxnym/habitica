@@ -5,7 +5,7 @@
     "groupBy": "Ordina per <%= type %>",
     "classBonus": "(Questo oggetto è adatto alla tua classe, quindi conferisce un bonus 1.5x sulle statistiche)",
     "classArmor": "Armatura Classe",
-    "featuredset": "Set in evidenza <%= name %>",
+    "featuredset": "Set in evidenza: <%= name %>",
     "mysterySets": "Set Misteriosi",
     "gearNotOwned": "Non possiedi questo oggetto.",
     "noGearItemsOfType": "Non possiedi nessuna di queste cose.",

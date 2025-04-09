@@ -3105,7 +3105,7 @@
     "shieldArmoireBuoyantBeachBallText": "沙滩球",
     "eyewearMystery202406Text": "幻影海盗面具",
     "weaponMystery202408Text": "奥秘神盾",
-    "gearItemsCompleted": "你获得了全部 <%= klass %>的装备！新的装备将在季节活动中登场。",
+    "gearItemsCompleted": "你已得到全部 <%= klass %>的装备！新的装备将在季节活动中登场。",
     "moreArmoireGearAvailable": "魔法宝箱里还剩 <%= armoireCount %>件装备等待你去发掘！",
     "moreArmoireGearComing": "魔法宝箱里每个月也会增加新库存！",
     "weaponArmoireShadyBeachUmbrellaNotes": "这把虹伞可以短暂地使你从晨星与其他干扰中脱身。增加 <%= per %>点感知。魔法宝箱：海滨套装（3/4）。",

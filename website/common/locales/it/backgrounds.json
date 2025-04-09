@@ -885,5 +885,9 @@
     "backgrounds122024": "SET 127: rilasciato nel dicembre 2024",
     "backgrounds012025": "SET 128: rilasciato nel gennaio 2025",
     "backgroundFirstSnowForestNotes": "Calpesta la prima neve nella foresta.",
-    "backgrounds112024": "SET 126: Rilasciato a novembre 2024"
+    "backgrounds112024": "SET 126: Rilasciato a novembre 2024",
+    "backgroundContainerGardenText": "Giardino in vaso",
+    "backgroundContainerGardenNotes": "Sporcati le mani con il Giardino in Vaso.",
+    "backgroundCastleHallWithHearthText": "Sala del Castello con Focolare",
+    "backgroundCastleHallWithHearthNotes": "Immergetevi nel calore di una Sala del Castello con il Focolare."
 }

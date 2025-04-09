@@ -60,5 +60,10 @@
     "faqQuestion28": "Czy mogę wstrzymać moje Codzienne, jeśli potrzebuję przerwy?",
     "webFaqAnswer28": "Tak! Przycisk \"Wstrzymaj obrażenia\" znajdziesz w ustawieniach. Ten przycisk uchroni cię przed utratą PZ za pomijanie Codziennych. Jest to pomocne, jeśli jesteś na wakacjach, potrzebujesz odpocząć albo z dowolnego innego powodu z jakiego potrzebujesz przerwy. Jeśli bierzesz udział w Misji twój oczekujący postęp zostanie wstrzymany, ale i tak otrzymasz obrażenia od pominiętych przez członków twojej drużyny Codziennych.\n\nAby wstrzymać poszczególne Codzienne możesz zmienić jego harmonogram tak, by było powtarzane co 0 dni aż do momentu, kiedy będziesz gotowy aby je wznowić.",
     "faqQuestion29": "Jak mogę odzyskać PZ?",
-    "webFaqAnswer29": "Możesz odzyskać 15 PZ kupując Eliksir uzdrawiający z twojej kolumny Nagrody za 25 Złota. Dodatkowo, zawsze odzyskasz wszystkie PZ, kiedy zdobędziesz wyższy poziom!"
+    "webFaqAnswer29": "Możesz odzyskać 15 PZ kupując Eliksir uzdrawiający z twojej kolumny Nagrody za 25 Złota. Dodatkowo, zawsze odzyskasz wszystkie PZ, kiedy zdobędziesz wyższy poziom!",
+    "faqQuestion30": "Co się stanie, jeśli moje PZ spadną do zera?",
+    "webFaqAnswer30": "Jeśli twoje PZ spadną do zera stracisz jeden poziom, całe swoje Złoto i element wyposażenia, który będziesz mógł zakupić ponownie.",
+    "faqQuestion31": "Dlaczego straciłem PZ podczas interakcji z nienegatywnym zadaniem?",
+    "webFaqAnswer31": "Jeśli ukończyłeś zadanie i utraciłeś PZ, mimo że nie powinieneś, znaczy to, że napotkałeś opóźnienie w synchronizacji zmian na serwerze wykonanych na innych platformach. Dla przykładu: jeśli zużyjesz Złoto, Manę albo stracisz PZ w aplikacji mobilnej, a następnie ukończysz zadanie na stronie internetowej, to serwer musi to wszystko zsynchronizować.",
+    "faqQuestion32": "Jak mogę wybrać klasę postaci?"
 }

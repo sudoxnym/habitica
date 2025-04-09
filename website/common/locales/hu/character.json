@@ -179,7 +179,7 @@
     "offHand": "Balkezes",
     "statPoints": "Tulajdonság pontok",
     "pts": "pont",
-    "chatCastSpellUser": "<%= username %> <%= spell %> varázslatot használta a(z) <%= target %> célponton.",
+    "chatCastSpellUser": "<%= username %> használta a(z) <%= spell %> képességet <%= target %> célponton.",
     "chatCastSpellParty": "<%= username %> elhasználta a(z) <%= spell %> képességet a csapat számára.",
     "purchasePetItemConfirm": "Ezzel a vásárlással túllépnéd a szükséges tárgymennyiséget az összes <%= itemText %> kisállat keltetéséhez. Biztos vagy benne?",
     "purchaseForGold": "Megvásárolod <%= cost %> aranyért?",
