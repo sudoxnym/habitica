@@ -837,5 +837,6 @@
     "questAlpacaRageEffect": "Das Überladene Alpaka schleudert Gepäck nach dir! Der Boss erhält 30% seiner Gesundheit zurück!",
     "questAlpacaDropAlpacaEgg": "Alpaka (Ei)",
     "questAlpacaUnlockText": "Schaltet den Kauf von Alpaka Eiern auf dem Marktplatz frei",
-    "questAlpacaRageDescription": "Dieser Balken füllt sich, wenn du deine Tagesaufgaben nicht erledigst. Wenn er voll ist, erhält Das Überladene Alpaka einen Teil seiner Gesundheit zurück!"
+    "questAlpacaRageDescription": "Dieser Balken füllt sich, wenn du deine Tagesaufgaben nicht erledigst. Wenn er voll ist, erhält Das Überladene Alpaka einen Teil seiner Gesundheit zurück!",
+    "questAlpacaRageTitle": "Gepäck Erdbeben"
 }

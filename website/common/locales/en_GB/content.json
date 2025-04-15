@@ -399,5 +399,12 @@
     "questEggOtterText": "Otter",
     "questEggOtterMountText": "Otter",
     "questEggOtterAdjective": "a perfidious",
-    "hatchingPotionJade": "Jade"
+    "hatchingPotionJade": "Jade",
+    "questEggAlpacaText": "Alpaca",
+    "questEggAlpacaMountText": "Alpaca",
+    "questEggAlpacaAdjective": "an overpacked",
+    "hatchingPotionBalloon": "Balloon",
+    "hatchingPotionCryptid": "Cryptid",
+    "wackyPotionAddlNotes": "Cannot be raised to Mounts or used on Quest Pet eggs.",
+    "wackyPotionNotes": "Pour this on an egg, and it will hatch as a Wacky <%= potText(locale) %> Pet."
 }

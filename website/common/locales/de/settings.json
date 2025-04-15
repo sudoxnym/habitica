@@ -197,7 +197,7 @@
     "giftSubscriptionRateText": "<strong>$<%= price %> $(USD)</strong> für <strong><%= months %> Monate</strong>",
     "transaction_admin_update_balance": "<b>Admin</b> gegeben",
     "transaction_admin_update_hourglasses": "<b>Admin</b> aktualisiert",
-    "transaction_create_bank_challenge": "Mit Edelsteinen des Gildenbankkontos <b>erstellte Herausforderungen</b>",
+    "transaction_create_bank_challenge": "Bankherausforderung <b>erstellt</b>",
     "passwordIssueLength": "Passwörter müssen zwischen 8 und 64 Zeichen lang sein.",
     "timestamp": "Zeitstempel",
     "amount": "Menge",
