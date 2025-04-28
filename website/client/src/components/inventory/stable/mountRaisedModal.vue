@@ -66,6 +66,7 @@
 
     .mount {
       margin: 0 auto;
+      margin-top: 22px;
     }
 
     .dialog-header {
