@@ -653,5 +653,7 @@
     "questRobotCollectSprings": "Fjedre",
     "questRobotCollectGears": "Tandhjul",
     "questRobotCollectBolts": "Bolte",
-    "evilSantaAddlNotes": "Bemærk at Pelsjægerjulemanden og Find Ungen har stackable questpræstationer, men giver et sjældent Kæledyr og Ridedyr, som kun kan tilføjes din stald en enkelt gang."
+    "evilSantaAddlNotes": "Bemærk at Pelsjægerjulemanden og Find Ungen har stackable questpræstationer, men giver et sjældent Kæledyr og Ridedyr, som kun kan tilføjes din stald en enkelt gang.",
+    "questCatRageTitle": "",
+    "questCatBoss": ""
 }

@@ -86,7 +86,7 @@
     "summaryRequired": "Il riepilogo è richiesto",
     "summaryTooLong": "Il riassunto è troppo lungo",
     "descriptionRequired": "La descrizione è richiesta",
-    "locationRequired": "È necessario un luogo della sfida ('Aggiungi a')",
+    "locationRequired": "Location of Challenge is required ('Add to')",
     "categoiresRequired": "Devono essere selezionate una o più categorie",
     "viewProgressOf": "Vedi i progressi di",
     "viewProgress": "Vedi il Progresso",
@@ -96,5 +96,9 @@
     "filters": "Filtri",
     "wonChallengeDesc": "<%= challengeName %> ti ha scelto come vincitore! La tua vittoria sarà registrata nelle tue Medaglie.",
     "yourReward": "La tua ricompensa",
-    "removeTasks": "Rimuovi Attività"
+    "removeTasks": "Rimuovi Attività",
+    "messageChallengeFlagOfficial": "Le sfide ufficiali non possono essere segnalate.",
+    "whyReportingChallenge": "Perchè stai segnalando questa sfida?",
+    "whyReportingChallengePlaceholder": "Motivo della segnalazione",
+    "messageChallengeFlagAlreadyReported": "Hai già segnalato questa sfida."
 }

@@ -403,5 +403,12 @@
     "hatchingPotionBalloon": "气球",
     "hatchingPotionCryptid": "神秘生物",
     "questEggAlpacaText": "羊驼",
-    "questEggAlpacaMountText": "羊驼"
+    "questEggAlpacaMountText": "羊驼",
+    "wackyPotionNotes": "将药水倒在宠物蛋上，就会孵化出一只古怪的<%= potText(locale) %> 宠物。",
+    "wackyPotionAddlNotes": "无法升级为坐骑或用于副本宠物蛋。",
+    "questEggPlatypusText": "鸭嘴兽",
+    "questEggPlatypusMountText": "鸭嘴兽",
+    "questEggPlatypusAdjective": "完美主义者",
+    "hatchingPotionOpal": "欧泊",
+    "questEggAlpacaAdjective": "超载的"
 }

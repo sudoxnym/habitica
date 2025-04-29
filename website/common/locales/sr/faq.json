@@ -1,6 +1,9 @@
 {
-    "frequentlyAskedQuestions": "Najčešće Postavljena Pitanja",
+    "frequentlyAskedQuestions": "Često Postavljena Pitanja",
     "iosFaqStillNeedHelp": "If you have a question that isn't on this list or on the [Wiki FAQ](http://habitica.fandom.com/wiki/FAQ), come ask in the Tavern chat under Menu > Tavern! We're happy to help.",
     "androidFaqStillNeedHelp": "If you have a question that isn't on this list or on the [Wiki FAQ](http://habitica.fandom.com/wiki/FAQ), come ask in the Tavern chat under Menu > Tavern! We're happy to help.",
-    "webFaqStillNeedHelp": "If you have a question that isn't on this list or on the [Wiki FAQ](http://habitica.fandom.com/wiki/FAQ), come ask in the [Habitica Help guild](https://habitica.com/groups/guild/5481ccf3-5d2d-48a9-a871-70a7380cee5a)! We're happy to help."
+    "webFaqStillNeedHelp": "If you have a question that isn't on this list or on the [Wiki FAQ](http://habitica.fandom.com/wiki/FAQ), come ask in the [Habitica Help guild](https://habitica.com/groups/guild/5481ccf3-5d2d-48a9-a871-70a7380cee5a)! We're happy to help.",
+    "commonQuestions": "Česta pitanja",
+    "faqQuestion25": "Koje su različite vrste zadataka?",
+    "faqQuestion26": "Koji su neki primeri zadataka?"
 }

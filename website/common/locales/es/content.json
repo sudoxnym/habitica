@@ -406,5 +406,9 @@
     "questEggAlpacaAdjective": "una colmada",
     "hatchingPotionCryptid": "Críptido",
     "wackyPotionNotes": "Vierte esto en un huevo y eclosionará como una Mascota Absurda <%= potText(locale) %>.",
-    "wackyPotionAddlNotes": "No puede convertirse en una Montura o usarse en huevos de Mascotas de Misión."
+    "wackyPotionAddlNotes": "No puede convertirse en una Montura o usarse en huevos de Mascotas de Misión.",
+    "questEggPlatypusMountText": "Marsupial",
+    "hatchingPotionOpal": "Ópalo",
+    "questEggPlatypusText": "Ornitorrinco",
+    "questEggPlatypusAdjective": "meticulosa"
 }

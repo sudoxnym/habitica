@@ -3313,5 +3313,15 @@
     "headMystery202504Notes": "Viseld ezt a titokzatos álarcot, hogy észrevétlen maradj a világ legtitokzatosabb kriptidjei között. Nem jár semmilyen előnnyel. 2025. áprilisi előfizetői tárgy.",
     "headArmoireSillyOrangeTophatText": "Bolondos narancssárga cilinder",
     "headArmoireSillyOrangeTophatNotes": "Jól illik egy tökös frizurához. Növeli az erődet és a szívósságodat egyaránt <%= attrs %> ponttal. Megbűvölt komód: Bolondos szmoking szett (2/2. tárgy).",
-    "headArmoireSillierBlueTophatText": "Még bolondosabb kék cilinder"
+    "headArmoireSillierBlueTophatText": "Még bolondosabb kék cilinder",
+    "weaponArmoireGildedKnightsSpearText": "Aranyozott lovag dárda",
+    "weaponArmoireGildedKnightsSpearNotes": "Ezzel a fegyverrel biztosíthatod, hogy mindenki megfizesse az adósságát. Növeli az erődet <%= str %> ponttal. Megbűvölt komód: Aranyozott lovag szett (3/3 tárgy)",
+    "armorArmoireGildedKnightsPlateText": "Aranyozott lovag páncél",
+    "headArmoireGildedKnightsHelmText": "Aranyozott lovag sisak",
+    "headArmoireGildedKnightsHelmNotes": "Ragyogj úgy, mint a nap, bármely csata sötétségében. Növeli a szívósságodat <%= con %> ponttal. Megbűvölt komód: Aranyozott lovag szett (1/3 tárgy)",
+    "backMystery202505Text": "Szárnyaló fecskefark szárnyak",
+    "backMystery202505Notes": "Szerezd meg a csíkjaidat, miközben száguldozol és suhansz ezekkel az aerodinamikus szárnyakkal. Nem jár semmilyen előnnyel. 2025. májusi előfizetői tárgy.",
+    "headAccessoryMystery202505Text": "Szárnyaló fecskefark csápok",
+    "headAccessoryMystery202505Notes": "Ezekkel az érzékeny csápokkal megtalálhatod a legjobb vadvirágos mezőket. Nem jár semmilyen előnnyel. 2025. májusi előfizetői tárgy.",
+    "armorArmoireGildedKnightsPlateNotes": "Ebben a páncélban szinte sebezhetetlen vagy. Ellenségeid biztosan hallani fogják a diadalüvöltésed! Növeli az észlelésedet <%= per %> ponttal. Megbűvölt komód: Aranyozott lovag szett (2/3 tárgy)"
 }

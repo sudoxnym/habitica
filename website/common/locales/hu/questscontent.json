@@ -843,5 +843,22 @@
     "questAlpacaRageDescription": "Ez a sáv akkor töltődik fel, ha nem teljesíted a napi teendőidet. Ha megtelik, a Túlságosan megpakolt alpaka visszanyeri az életerejének egy részét!",
     "questAlpacaRageEffect": "A Túlságosan megpakolt alpaka csomagokat dobál rád! Az ellenség visszanyeri az életerejének 30%-át!",
     "questAlpacaDropAlpacaEgg": "Alpaka (tojás)",
-    "questAlpacaUnlockText": "Elérhetővé teszi az alpaka tojások megvásárlását a piacon"
+    "questAlpacaUnlockText": "Elérhetővé teszi az alpaka tojások megvásárlását a piacon",
+    "questPlatypusText": "A maximalista kacsacsőrű emlős",
+    "questPlatypusNotes": "Gyönyörű nap van a Hódító öbölben, amit csak az a munkafüzet ront el a kezedben. Miért van az, hogy a menő kalandokat mindig elrontja a házi feladat? Már öt kérdésen túl vagy a folyóvizek élővilágáról, amikor egy esszékérdéssel dobnak meg.<br><br>„Írd le, hogyan alkalmazkodhat egy állat a folyóvízi életmódhoz! Áhh, fogalmam sincs...”<br><br>Miután 30 percig reménytelenül ülsz anélkül, hogy bármit is sikerülne írnod, hirtelen frusztrált csobbanásokat hallasz a part mentén.<br><br>„Áhh,” hallatszik egy hang közvetlenül a felszín alól. Egy kócosnak tűnő kacsacsőrű emlős bukkan fel. „Ez az üreg egyszerűen sehogy sem akar összejönni! Mindig rosszul néz ki, ahogy elkezdem.” Aztán visszabukik a víz alá, és széles, lapos farkával egy hatalmas fröccsenést zúdít az arcodba.<br><br>„Várj, ne dobd ki az egészet—” kiáltasz utána, miközben újabb adag patakvíz csapódik rád. Talán tudnál segíteni neki, és közben még egy kis ihletet is nyerhetnél!",
+    "questPlatypusCompletion": "Egy kimerítő vízicsata és néhány bátorító szó után a kacsacsőrű emlős végül megáll, majd sóhajtva felbukkan a felszínen.<br><br>„Lehet, hogy igazad van. Ha mindig a tökéletességet várom el, sosem fogom befejezni! Később is lehet javítani. Úgy tűnik, te is ismered a maximalizmus problémáját.”<br><br>Ránézel az elázott munkafüzetedre. „Ja...”<br><br>„Bocsánat,” mondja a kacsacsőrű emlős. „Békeképpen, és hogy kárpótoljalak a nedves esszédért, fogadj el néhány tojást, amit az iszapban találtam.”",
+    "questPlatypusBoss": "A maximalista kacsacsőrű emlős",
+    "questPlatypusRageTitle": "Sokkos fröccsenés",
+    "questPlatypusRageDescription": "Ez a sáv akkor töltődik, ha nem teljesíted a napi teendőidet. Ha megtelik, a maximalista kacsacsőrű emlős elvesz egy kis MP-t a csapatodtól!",
+    "questPlatypusRageEffect": "A maximalista kacsacsőrű emlős alámerül és lefröcsköl! A csapat MP-je csökken!",
+    "questPlatypusDropPlatypusEgg": "Kacsacsőrű emlős (Tojás)",
+    "questPlatypusUnlockText": "Elérhetővé teszi a kacsacsőrű emlős tojások megvásárlását a piacon",
+    "questOpalNotes": "Habitica tudósai régóta keresik a legendás Opál mágikus keltetőfőzetet. Egy olyan erős főzetet, amely páratlan színt és ragyogást ad a kisállatoknak és hátas párjaiknak, amit semmilyen más drágakő vagy nemesfém nem tud megközelíteni. Úgy tartják, hogy az opálok varázsereje még a tervezést, a belátást és a kreativitást is fokozza. Micsoda lendületet adhatna ez a feladataidhoz!<br><br>Hosszú keresés után talán végre ráleltél a megoldásra. Az Opál főzetekhez nyers opálkövek szükségesek, amelyeket a Mérleg és a Merkúr varázsrúnáival kell összeolvasztani. Ezek az ősi tárgyak csak egy helyen találhatók meg... az Elveszett város veszedelmes romjai között, a Fecsérelő sivatag szélén.<br><br>Napokig tartó, megterhelő lovaglás után legerősebb hátasodon végre megérkezel a romokhoz. A napfényben kifehéredett, összetört kövek között egy fénylő csillanást pillantasz meg. Megkezdődik a kutatás!",
+    "questOpalText": "Az elfeledett opálok legendája",
+    "questOpalCompletion": "Végre, fáradtan és porosan, megtalálod az utolsó rúnát és opálkövet, amik szükségesek a Mágikus keltetőfőzet megalkotásához.<br><br>Ahogy visszaérsz Habitica fővárosába, azonnal nekilátsz a kovácsolásnak. A rúnák és az opálok ereje szivárványszín fénnyel tölti meg a laborodat! Pillanatok alatt három főzeted is lesz, és izgatottan készülsz új, színes kis barátokat kikeltetni.",
+    "questOpalCollectOpalGems": "Opál drágakő",
+    "questOpalCollectMercuryRunes": "Merkúr rúna",
+    "questOpalCollectLibraRunes": "Mérleg rúna",
+    "questOpalDropOpalPotion": "Opál keltetőfőzet",
+    "questOpalUnlockText": "Elérhetővé teszi az opál keltetőfőzetek megvásárlását a piacon"
 }

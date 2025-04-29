@@ -3313,5 +3313,11 @@
     "headArmoireSillyOrangeTophatNotes": "Passt gut zu einem Kürbiskuchen-Haarschnitt. Erhöht Stärke und Ausdauer um jeweils <%= attrs %>. Verzauberter Schrank: Lächerlicher Smoking Set (Gegenstand 2 von 2).",
     "headArmoireSillierBlueTophatText": "Noch Lächerlicherer Blauer Zylinder",
     "headMystery202504Notes": "Trage diese mysteriöse Visage, um unentdeckt unter den oskursten Fabelwesen der Welt zu verweilen. Gewährt keinen Attributbonus. April 2025 Abonnentengegenstand.",
-    "headArmoireSillierBlueTophatNotes": "Etwas Klasse, etwas Raffinesse. Erhöht Stärke und Ausdauer um jeweils <%= attrs %>. Verzauberter Schrank: Noch Lächerlicherer Smoking Set (Gegenstand 2 von 2)."
+    "headArmoireSillierBlueTophatNotes": "Etwas Klasse, etwas Raffinesse. Erhöht Stärke und Ausdauer um jeweils <%= attrs %>. Verzauberter Schrank: Noch Lächerlicherer Smoking Set (Gegenstand 2 von 2).",
+    "weaponArmoireGildedKnightsSpearText": "Vergoldeter Ritter Speer",
+    "weaponArmoireGildedKnightsSpearNotes": "Mit dieser Waffe kannst du sicherstellen, dass jeder immer seine Schulden bezahlt. Erhöht Stärke um <%= str %>. Verzauberter Schrank: Vergoldeter Ritter Set (Gegenstand 3 von 3)",
+    "armorArmoireGildedKnightsPlateNotes": "In dieser Rüstung bist du fast unbesiegbar. Deine Feinde werden dich sicher dröhnen hören! Erhöht Wahrnehmung um <%= per %>. Verzauberter Schrank: Vergoldeter Ritter Set (Gegenstand 2 von 3)",
+    "armorArmoireGildedKnightsPlateText": "Vergoldeter Ritter Rüstung",
+    "headArmoireGildedKnightsHelmText": "Vergoldeter Ritter Helm",
+    "headArmoireGildedKnightsHelmNotes": "Scheine hell wie die Sonne durch die Dunkelheit eines jeden Kampfes. Erhöht Ausdauer um <%= con %>. Verzauberter Schrank: Vergoldeter Ritter Set (Gegenstand 1 von 3)"
 }

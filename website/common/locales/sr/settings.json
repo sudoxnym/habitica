@@ -159,5 +159,10 @@
     "verifyUsernameVeteranPet": "One of these Veteran Pets will be waiting for you after you've finished confirming!",
     "subscriptionReminders": "Podsetnik za pretplate",
     "resetAccount": "Resetuj nalog",
-    "newPMNotificationTitle": "Nova poruka od"
+    "newPMNotificationTitle": "Nova poruka od",
+    "generalSettings": "Opšta podešavanja",
+    "siteData": "Podaci o sajtu",
+    "taskSettings": "Podešavanja za Zadatke",
+    "confirmCancelChanges": "Jesi li siguran? Izgubićeš ne sačuvane izmene.",
+    "account": "Nalog"
 }

@@ -406,5 +406,9 @@
     "hatchingPotionBalloon": "Léggömb",
     "wackyPotionAddlNotes": "Nem lehet hátassá fejleszteni, és küldetéses kisállat tojásra sem használható.",
     "hatchingPotionCryptid": "Kriptid",
-    "wackyPotionNotes": "Öntsd ezt egy tojásra, és egy bolondos <%= potText(locale) %> kisállat fog kikelni belőle."
+    "wackyPotionNotes": "Öntsd ezt egy tojásra, és egy bolondos <%= potText(locale) %> kisállat fog kikelni belőle.",
+    "questEggPlatypusText": "Kacsacsőrű emlős",
+    "questEggPlatypusAdjective": "egy maximalista",
+    "questEggPlatypusMountText": "Kacsacsőrű emlős",
+    "hatchingPotionOpal": "Opál"
 }

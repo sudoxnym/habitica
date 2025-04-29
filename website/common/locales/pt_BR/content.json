@@ -379,7 +379,7 @@
     "questEggRaccoonAdjective": "um ganancioso",
     "questEggCatText": "Gatinho",
     "questEggDogText": "Cachorrinho",
-    "hatchingPotionGingerbread": "de Gengibre",
+    "hatchingPotionGingerbread": "do Biscoito de Natal",
     "questEggGiraffeText": "Girafa",
     "questEggGiraffeMountText": "Girafa",
     "questEggGiraffeAdjective": "uma torre alta",
@@ -396,5 +396,7 @@
     "questEggCatAdjective": "um travesso",
     "questEggCatMountText": "Gato",
     "questEggOtterText": "Lontra",
-    "hatchingPotionCryptid": "do Reino das Lendas"
+    "hatchingPotionCryptid": "do Reino das Lendas",
+    "hatchingPotionBalloon": "Balão",
+    "hatchingPotionKoi": "Carpa"
 }

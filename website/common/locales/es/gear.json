@@ -3313,5 +3313,12 @@
     "headArmoireSillyOrangeTophatNotes": "Con un corte de pelo estilo tarta de calabaza vas a estar divino de la muerte. Aumenta la fuerza y la constitución en <%= attrs %> cada uno. Armario Encantado: Conjunto Esmoquin Tonto (Artículo 2 de 2).",
     "headArmoireSillierBlueTophatText": "Sombrero de Copa MasTonto Azulado",
     "headArmoireSillierBlueTophatNotes": "Un poco de clase, un gran abismo en tus cotas de sofisticación. Aumenta la fuerza y la constitución en <%= attrs %> cada uno. Armario Encantado: Conjunto Esmoquin MasTonto (Artículo 2 de 2).",
-    "armorArmoireSillyOrangeTuxedoNotes": "Un traje adecuado para tus labores diarias. Aumenta la Constitución en <%= con %>. Armario Encantado: Conjunto Esmoquin Tonto (Artículo 1 de 2)."
+    "armorArmoireSillyOrangeTuxedoNotes": "Un traje adecuado para tus labores diarias. Aumenta la Constitución en <%= con %>. Armario Encantado: Conjunto Esmoquin Tonto (Artículo 1 de 2).",
+    "weaponArmoireGildedKnightsSpearText": "Lanza de Caballero Dorado",
+    "weaponArmoireGildedKnightsSpearNotes": "Con este arma, vas a poder asegurarte el pago de cualquier deuda con toda la contundencia y el peso de la ley. Aumenta la Fuerza en <%= str %>. Armario Encantado: Conjunto Caballero Dorado (Artículo 3 de 3)",
+    "backMystery202505Text": "Alas de Cola de Golondrina Volando",
+    "armorArmoireGildedKnightsPlateNotes": "En esta armadura, eres prácticamente invencible. ¡Tus enemigos seguramente te oirán rugir! Aumenta la Percepción en un <%= per %>. Armario encantado: Conjunto Guerrero Dorado (Artículo 2 de 3)",
+    "armorArmoireGildedKnightsPlateText": "Armadura de Guerrero Dorado",
+    "headArmoireGildedKnightsHelmText": "Casco de Guerrero Dorado",
+    "headArmoireGildedKnightsHelmNotes": "Brilla tan brillante como el sol a través de la oscuridad de cualquier batalla. Aumenta la Constitución en <%= con %>. Armario encantado: Conjunto Guerrero Dorado (Artículo 1 de 3)"
 }

@@ -3313,5 +3313,15 @@
     "headArmoireSillyOrangeTophatNotes": "Va très bien avec une coupe au bol. Augmente la Force et la Constitution de <%= attrs %> chacune. Armoire enchantée : Ensemble Smoking Rigolodicule (Objet 2 sur 2).",
     "headArmoireSillyOrangeTophatText": "Haut-de-Forme Orange Rigolodicule",
     "headArmoireSillierBlueTophatText": "Haut-de-Forme Bleu encore plus Rigolodicule",
-    "headArmoireSillierBlueTophatNotes": "Un peu de classe, un peu de sophistication. Augmente la Force et la Constitution de <%= attrs %> chacune. Armoire Enchantée : Ensemble Smoking encore plus Rigolodicule (Objet 2 sur 2)."
+    "headArmoireSillierBlueTophatNotes": "Un peu de classe, un peu de sophistication. Augmente la Force et la Constitution de <%= attrs %> chacune. Armoire Enchantée : Ensemble Smoking encore plus Rigolodicule (Objet 2 sur 2).",
+    "weaponArmoireGildedKnightsSpearText": "Lance d·u·e la Chevali·er·ère Doré·e",
+    "weaponArmoireGildedKnightsSpearNotes": "Avec cette arme, vous êtes assuré·e que chacun·e payera toujours ses dettes. Augmente la Force de <%= str %>. Armoire enchantée : Ensemble Chevali·er·ère Doré·e (Objet 3 sur 3)",
+    "armorArmoireGildedKnightsPlateNotes": "Dans cette armure, vous êtes quasiment invincible. Vous ennemi·e·s vont certainement vous entendre rugir ! Augmente la Perception de <%= per %>. Armoire Enchantée : Ensemble Chevali·er·ère Doré·e (Objet 2 sur 3)",
+    "backMystery202505Notes": "Obtenez vos galons en virevoltant et batifolant avec ces ailes aérodynamiques. Ne confère aucun bonus. Équipement d'abonnement Mai 2025.",
+    "headAccessoryMystery202505Text": "Antennes de Machaon Majestueux",
+    "headAccessoryMystery202505Notes": "Dénichez les meilleurs coins de fleurs sauvages avec ces appendices hypersensibles. Ne confère aucun bonus. Équipement d'abonnement Mai 2025.",
+    "backMystery202505Text": "Ailes de Machaon Majestueux",
+    "armorArmoireGildedKnightsPlateText": "Armure d·u·e la Chevali·er·ère Doré·e",
+    "headArmoireGildedKnightsHelmText": "Heaume d·u·e la Chevali·er·ère Dorée",
+    "headArmoireGildedKnightsHelmNotes": "Rayonnez aussi puissamment que le soleil dans la noirceur des combats. Augmente la Constitution de <%= con %>. Armoire Enchantée : Ensemble Chevali·er·ère Doré·e (Objet 1 sur 3)"
 }

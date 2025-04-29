@@ -406,5 +406,9 @@
     "hatchingPotionBalloon": "Ballon",
     "wackyPotionAddlNotes": "Kann nicht zum Reittier großgezogen oder für Quest-Haustier Eier benutzt werden.",
     "hatchingPotionCryptid": "Kryptisch",
-    "wackyPotionNotes": "Schütte dies über ein Ei und es wird als Durchgeknalltes <%= potText(locale) %> Haustier schlüpfen."
+    "wackyPotionNotes": "Schütte dies über ein Ei und es wird als Durchgeknalltes <%= potText(locale) %> Haustier schlüpfen.",
+    "questEggPlatypusText": "Schnabeltier",
+    "questEggPlatypusMountText": "Schnabeltier",
+    "questEggPlatypusAdjective": "ein Perfektionist",
+    "hatchingPotionOpal": "Opal"
 }
