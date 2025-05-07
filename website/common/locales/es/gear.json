@@ -3316,9 +3316,12 @@
     "armorArmoireSillyOrangeTuxedoNotes": "Un traje adecuado para tus labores diarias. Aumenta la Constitución en <%= con %>. Armario Encantado: Conjunto Esmoquin Tonto (Artículo 1 de 2).",
     "weaponArmoireGildedKnightsSpearText": "Lanza de Caballero Dorado",
     "weaponArmoireGildedKnightsSpearNotes": "Con este arma, vas a poder asegurarte el pago de cualquier deuda con toda la contundencia y el peso de la ley. Aumenta la Fuerza en <%= str %>. Armario Encantado: Conjunto Caballero Dorado (Artículo 3 de 3)",
-    "backMystery202505Text": "Alas de Cola de Golondrina Volando",
-    "armorArmoireGildedKnightsPlateNotes": "En esta armadura, eres prácticamente invencible. ¡Tus enemigos seguramente te oirán rugir! Aumenta la Percepción en un <%= per %>. Armario encantado: Conjunto Guerrero Dorado (Artículo 2 de 3)",
-    "armorArmoireGildedKnightsPlateText": "Armadura de Guerrero Dorado",
-    "headArmoireGildedKnightsHelmText": "Casco de Guerrero Dorado",
-    "headArmoireGildedKnightsHelmNotes": "Brilla tan brillante como el sol a través de la oscuridad de cualquier batalla. Aumenta la Constitución en <%= con %>. Armario encantado: Conjunto Guerrero Dorado (Artículo 1 de 3)"
+    "backMystery202505Text": "Alas de Mariposa Macaón Masiva",
+    "armorArmoireGildedKnightsPlateNotes": "En esta armadura, eres prácticamente invencible. ¡Tus enemigos seguramente te oirán rugir! Aumenta la Percepción en un <%= per %>. Armario encantado: Conjunto Caballero Dorado (Artículo 2 de 3)",
+    "armorArmoireGildedKnightsPlateText": "Armadura de Caballero Dorado",
+    "headArmoireGildedKnightsHelmText": "Casco de Caballero Dorado",
+    "headArmoireGildedKnightsHelmNotes": "Brilla tan brillante como el sol a través de la oscuridad de cualquier batalla. Aumenta la Constitución en <%= con %>. Armario encantado: Conjunto Caballero Dorado (Artículo 1 de 3)",
+    "backMystery202505Notes": "Gánate tus galones volando y elevándote con estas alas aerodinámicas. No otorga ningún beneficio. Artículo de Suscriptor Mayo 2025.",
+    "headAccessoryMystery202505Text": "Antenas de Mariposa Macaón Masiva",
+    "headAccessoryMystery202505Notes": "Detecta las mejores áreas de flores silvestres con estas sensibles antenas. No otorga ningún beneficio. Artículo de Suscriptor Mayo 2025."
 }
