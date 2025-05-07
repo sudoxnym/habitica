@@ -3319,5 +3319,7 @@
     "armorArmoireGildedKnightsPlateNotes": "In dieser Rüstung bist du fast unbesiegbar. Deine Feinde werden dich sicher dröhnen hören! Erhöht Wahrnehmung um <%= per %>. Verzauberter Schrank: Vergoldeter Ritter Set (Gegenstand 2 von 3)",
     "armorArmoireGildedKnightsPlateText": "Vergoldeter Ritter Rüstung",
     "headArmoireGildedKnightsHelmText": "Vergoldeter Ritter Helm",
-    "headArmoireGildedKnightsHelmNotes": "Scheine hell wie die Sonne durch die Dunkelheit eines jeden Kampfes. Erhöht Ausdauer um <%= con %>. Verzauberter Schrank: Vergoldeter Ritter Set (Gegenstand 1 von 3)"
+    "headArmoireGildedKnightsHelmNotes": "Scheine hell wie die Sonne durch die Dunkelheit eines jeden Kampfes. Erhöht Ausdauer um <%= con %>. Verzauberter Schrank: Vergoldeter Ritter Set (Gegenstand 1 von 3)",
+    "backMystery202505Text": "Hochfliegender Schwalbenschwanz Flügel",
+    "backMystery202505Notes": "Verdien dir deine Streifen bei Steig- und Sturzflügen mit diesen aerodynamischen Flügeln. Gewährt keinen Attributbonus. Mai 2025 Abonnentengegenstand."
 }

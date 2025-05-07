@@ -238,7 +238,7 @@
     "unbanPlayer": "Розбанити гравця",
     "whyReportingPlayer": "Чому ви повідомляєте про цього гравця?",
     "whyReportingPlayerPlaceholder": "Причина для повідомлення",
-    "titleCustomizations": "Для аватара",
+    "titleCustomizations": "Персоналізація",
     "newMessage": "Нове повідомлення",
     "targetUserNotExist": "Вибраний користувач: '<%= userName %>' не існує.",
     "rememberToBeKind": "Не забувайте бути добрими, шанобливими та дотримуватися <a href='/static/community-guidelines' target='_blank'>Правил спільноти</a>."
