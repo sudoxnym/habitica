@@ -3323,5 +3323,11 @@
     "backMystery202505Text": "Hochfliegender Schwalbenschwanz Flügel",
     "backMystery202505Notes": "Verdien dir deine Streifen bei Steig- und Sturzflügen mit diesen aerodynamischen Flügeln. Gewährt keinen Attributbonus. Mai 2025 Abonnentengegenstand.",
     "headAccessoryMystery202505Text": "Hochfliegender Schwalbenschwanz Fühler",
-    "headAccessoryMystery202505Notes": "Entdecke die besten Wildblumen Flecken mit diesen feinfühligen Anhängseln. Gewährt keinen Attributbonus. Mai 2025 Abonnentengegenstand."
+    "headAccessoryMystery202505Notes": "Entdecke die besten Wildblumen Flecken mit diesen feinfühligen Anhängseln. Gewährt keinen Attributbonus. Mai 2025 Abonnentengegenstand.",
+    "weaponSpecialSummer2025WarriorText": "Jakobsmuschel Lanze",
+    "weaponSpecialSummer2025WarriorNotes": "Man kann nicht sagen, wie alt es ist, aber es wird während manch harter Aufgaben an deiner Seite bleiben. Erhöht Stärke um <%= str %>. Limitierte Ausgabe Sommerausrüstung 2025.",
+    "weaponSpecialSummer2025RogueText": "Tintenfisch Tentakel",
+    "weaponSpecialSummer2025RogueNotes": "Dieser Tentakel wird deine Ziele eng umklammern, so dass du den Schwung nicht verlierst, wenn du deine Aufgaben erledigst. Erhöht Stärke um <%= str %>. Limitierte Ausgabe Sommerausrüstung 2025.",
+    "weaponSpecialSummer2025HealerText": "Ruderschnecken Flügelpaddel",
+    "weaponSpecialSummer2025HealerNotes": "Beschreibe rudernd einen Doppelkreis, während du dich vorwärts bewegst, und bei deinen Aufgaben tolle Fortschritte machst. Erhöht Intelligenz um <%= int %>. Limitierte Ausgabe Sommerausrüstung 2025."
 }

@@ -3292,5 +3292,6 @@
     "headArmoireFestiveHelperHatText": "节日助手帽",
     "headArmoireFestiveHelperHatNotes": "节日小贴士第27条：常备助手帽以备不时之需！超大帽檐甚至能暗藏应急玩具。智力属性提升<%= int %>点。魔法宝箱：节日助手套装（1/2）",
     "headArmoireFancyFloralHatText": "华饰花冠",
-    "headArmoireFancyFloralHatNotes": "此帽缀满瑰丽花卉与精致褶边扣饰，令人目不暇接。智力属性提升<%= int %>点。魔法宝箱：华饰花艺套装（1/2）。"
+    "headArmoireFancyFloralHatNotes": "此帽缀满瑰丽花卉与精致褶边扣饰，令人目不暇接。智力属性提升<%= int %>点。魔法宝箱：华饰花艺套装（1/2）。",
+    "weaponSpecialSummer2025WarriorNotes": "谁也不知道它已经存在多久了，但未来它仍然能和你共同克服许多艰难的挑战。增加<%= str %>点力量。2025夏季限定装备。"
 }
