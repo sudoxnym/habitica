@@ -273,7 +273,7 @@
       <div class="text-center">
         <div>
           <div
-            class="svg-icon habitica-logo color"
+            class="svg-icon habitica-logo"
             v-html="icons.habiticaIcon"
           ></div>
         </div>
