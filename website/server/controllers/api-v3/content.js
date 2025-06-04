@@ -10,7 +10,7 @@ const MOBILE_FILTER = ['achievements', 'questSeriesAchievements', 'animalColorAc
   'stableAchievements', 'bundles', 'loginIncentives', 'pets', 'premiumPets', 'specialPets', 'questPets',
   'wackyPets', 'mounts', 'premiumMounts,specialMounts,questMounts', 'events', 'dropEggs', 'questEggs', 'dropHatchingPotions',
   'premiumHatchingPotions', 'wackyHatchingPotions', 'backgroundsFlat', 'questsByLevel', 'gear.tree', 'tasksByCategory',
-  'userDefaults', 'timeTravelStable', 'gearTypes', 'cardTypes'];
+  'userDefaults', 'timeTravelStable', 'gearTypes', 'cardTypes', 'categoryOptions'];
 
 const ANDROID_FILTER = [...MOBILE_FILTER, 'appearances.background'].join(',');
 const IOS_FILTER = [...MOBILE_FILTER, 'backgrounds'].join(',');
