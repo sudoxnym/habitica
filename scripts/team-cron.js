@@ -12,6 +12,7 @@ async function updateTeamTasks (team) {
     const dateTerminated = new Date(team.purchased.plan.dateTerminated);
     if (dateTerminated < new Date()) {
       team.purchased.plan.customerId = undefined;
+      team.markModified('purchased.plan');
       return team.save();
     }
   }
