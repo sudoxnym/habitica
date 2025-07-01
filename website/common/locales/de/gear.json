@@ -3341,5 +3341,6 @@
     "armorSpecialSummer2025MageText": "Zwerglippfisch Anzug",
     "armorSpecialSummer2025MageNotes": "Dieser Anzug hat nicht nur atemberaubende Farben, sondern ermöglicht dir auch, anmutig durch's Wasser zu gleiten. Schwimmen oder Tanzen - du hast die Wahl! Erhöht Intelligenz um <%= int %>. Limitierte Ausgabe Sommerausrüstung 2025.",
     "armorArmoireBeekeepersSuitText": "Imkeranzug",
-    "armorArmoireBeekeepersSuitNotes": "Schütze dich, während du nach deinen fleißigen Hummeln schaust. Erhöht Ausdauer um <%= con %>. Verzauberter Schrank: Imker Set (Gegenstand 2 von 4)"
+    "armorArmoireBeekeepersSuitNotes": "Schütze dich, während du nach deinen fleißigen Hummeln schaust. Erhöht Ausdauer um <%= con %>. Verzauberter Schrank: Imker Set (Gegenstand 2 von 4)",
+    "headSpecialSummer2025RogueNotes": "Deiner Sehkraft wird sich verbessern sobald Du diese Maske aufsetzt. Erhöht Wahrnehmung um <%= per %>."
 }

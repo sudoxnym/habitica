@@ -21,7 +21,7 @@
     "subGemName": "订阅者宝石",
     "maxBuyGems": "你已购买了本月的所有宝石。更多宝石将在每月的前三天上架。感谢你的订阅！",
     "timeTravelers": "时空旅行者",
-    "timeTravelersPopoverNoSubMobile": "看来你需要一个神秘沙漏才能打开时空之门，召唤神秘的时空旅行者。",
+    "timeTravelersPopoverNoSubMobile": "订阅用户每月会收到一个稀有的神秘沙漏，可以使用这个沙漏在时空旅行者商店进行购物！",
     "timeTravelersPopover": "你的神秘沙漏打开了我们的时空之门！选择你希望我们从过去或未来获取的东西。",
     "mysterySetNotFound": "未找到神秘套装，或已拥有该套装。",
     "mysteryItemIsEmpty": "神秘物品已空",
@@ -264,5 +264,6 @@
     "earn2GemsGift": "每月将获得订阅的<strong>2颗宝石</strong>",
     "maxGemCapGift": "他们将拥有最高的 <strong> 宝石上限 </strong>",
     "mysterySet202505": "翱翔燕尾服套装",
-    "mysterySet202506": "太阳辉光套装"
+    "mysterySet202506": "太阳辉光套装",
+    "mysterySet202507": "活力滑板套装"
 }
