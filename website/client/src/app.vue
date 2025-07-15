@@ -223,11 +223,10 @@ export default {
 
         const errorData = error.response.data;
         const errorMessage = errorData.message || errorData;
+        const errorCode = errorData.error;
 
-        // Check for conditions to reset the user auth
-        // TODO use a specific error like NotificationNotFound instead of checking for the string
-        const invalidUserMessage = [this.$t('invalidCredentials'), 'Missing authentication headers.'];
-        if (invalidUserMessage.indexOf(errorMessage) !== -1) {
+        // If 'invalid_credentials' signaled, force logout
+        if (error.response.status === 401 && errorCode === 'invalid_credentials') {
           this.$store.dispatch('auth:logout', { redirectToLogin: true });
           return null;
         }
