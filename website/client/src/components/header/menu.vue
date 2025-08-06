@@ -296,14 +296,6 @@
             </router-link>
             <div class="topbar-dropdown">
               <router-link
-                v-if="user.permissions.fullAccess ||
-                  user.permissions.userSupport"
-                class="topbar-dropdown-item dropdown-item"
-                :to="{name: 'adminPanel'}"
-              >
-                Admin Panel
-              </router-link>
-              <router-link
                 class="topbar-dropdown-item dropdown-item"
                 :to="{name: 'faq'}"
               >
@@ -334,6 +326,61 @@
                 href="https://docs.google.com/forms/d/e/1FAIpQLScPhrwq_7P1C6PTrI3lbvTsvqGyTNnGzp1ugi1Ml0PFee_p5g/viewform?usp=sf_link"
                 target="_blank"
               >{{ $t('requestFeature') }}</a>
+            </div>
+          </li>
+          <li
+            v-if="hasElevatedPrivileges"
+            class="topbar-item droppable"
+            :class="{
+              'active': $route.path.startsWith('/admin')}"
+          >
+            <div
+              class="chevron rotate"
+              @click="dropdownMobile($event)"
+            >
+              <div
+                v-once
+                class="chevron-icon-down"
+                v-html="icons.chevronDown"
+              ></div>
+            </div>
+            <router-link
+              v-if="hasPermission(user, 'userSupport')"
+              class="nav-link"
+              :to="{name: 'adminPanel'}"
+            >
+              {{ $t('admin') }}
+            </router-link>
+            <a
+              v-else
+              href="#"
+              class="nav-link"
+            >
+              {{ $t('admin') }}
+            </a>
+            <div class="topbar-dropdown">
+              <router-link
+                v-if="hasPermission(user, 'userSupport')"
+                class="topbar-dropdown-item dropdown-item"
+                :to="{name: 'adminPanel'}"
+              >
+                {{ $t("adminPanel") }}
+              </router-link>
+              <router-link
+                v-if="hasPermission(user, 'accessControl')"
+                class="topbar-dropdown-item dropdown-item"
+                :to="{name: 'blockers'}"
+              >
+                {{ $t("siteBlockers") }}
+              </router-link>
+              <a
+                v-if="hasPermission(user, 'news')"
+                class="topbar-dropdown-item dropdown-item"
+                target="_blank"
+                href="https://panel.habitica.com"
+              >
+                {{ $t('newsroom') }}
+              </a>
             </div>
           </li>
         </b-navbar-nav>
@@ -757,6 +804,7 @@ import selectUserModal from '@/components/payments/selectUserModal';
 import sync from '@/mixins/sync';
 import userDropdown from './userDropdown';
 import reportBug from '@/mixins/reportBug.js';
+import { userStateMixin } from '../../mixins/userState';
 
 export default {
   components: {
@@ -769,7 +817,7 @@ export default {
     selectUserModal,
     userDropdown,
   },
-  mixins: [sync, reportBug],
+  mixins: [sync, reportBug, userStateMixin],
   data () {
     return {
       isUserDropdownOpen: false,
@@ -801,6 +849,12 @@ export default {
         name: 'groupPlanDetailTaskInformation',
         params: { groupId: this.groupPlans[0]._id },
       };
+    },
+    hasElevatedPrivileges () {
+      return this.user.permissions.fullAccess
+        || this.user.permissions.userSupport
+        || this.user.permissions.accessControl
+        || this.user.permissions.news;
     },
   },
   async mounted () {
