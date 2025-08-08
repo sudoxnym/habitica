@@ -182,5 +182,6 @@
     "incorrectResetPhrase": "Bitte tippe <%= magicWord %> in Großbuchstaben um deinen Account zurückzusetzen.",
     "translateHabitica": "Habitica übersetzen",
     "marketing3Lead1Title": "Android & iOS Apps",
-    "marketing4Lead3Button": "Starte noch heute"
+    "marketing4Lead3Button": "Starte noch heute",
+    "emailBlockedRegistration": "Diese E-Mail ist für die Registrierung blockiert. Wenn du denkst, dass das ein Fehler ist, kontaktiere uns bitte unter admin@habitica.com."
 }

@@ -183,5 +183,6 @@
     "incorrectResetPhrase": "Por favor, teclea <%= magicWord %> en mayúsculas para reiniciar tu cuenta.",
     "marketing3Lead1Title": "Aplicaciones para Android y iOS",
     "marketing4Lead3Button": "Empieza Hoy Mismo",
-    "missingClientHeader": "Faltan los encabezados x-client."
+    "missingClientHeader": "Faltan los encabezados x-client.",
+    "emailBlockedRegistration": "Esta cuenta de E-Mail está bloqueada desde el registro. Si crees que es un error, por favor contacta con nosotros por medio de admin@habitica.com."
 }
