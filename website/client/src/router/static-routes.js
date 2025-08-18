@@ -22,7 +22,9 @@ const NewsPage = () => import('@/components/static/newStuff');
 const OverviewPage = () => import('@/components/static/overview');
 const PressKitPage = () => import('@/components/static/pressKit');
 const PrivacyPage = () => import('@/components/static/privacy');
+const PrivacyReviewPage = () => import('@/components/static/privacyReview');
 const TermsPage = () => import('@/components/static/terms');
+const TermsReviewPage = () => import('@/components/static/termsReview');
 
 export const STATIC_ROUTES = {
   path: '/static',
@@ -80,7 +82,13 @@ export const STATIC_ROUTES = {
       name: 'privacy', path: 'privacy', component: PrivacyPage, meta: { requiresLogin: false },
     },
     {
+      name: 'privacyReview', path: 'privacy-review', component: PrivacyReviewPage, meta: { requiresLogin: false },
+    },
+    {
       name: 'terms', path: 'terms', component: TermsPage, meta: { requiresLogin: false },
+    },
+    {
+      name: 'termsReview', path: 'terms-review', component: TermsReviewPage, meta: { requiresLogin: false },
     },
     {
       name: 'notFound', path: 'not-found', component: NotFoundPage, meta: { requiresLogin: false },
