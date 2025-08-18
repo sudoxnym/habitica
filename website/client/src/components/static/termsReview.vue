@@ -3,7 +3,7 @@
   <div class="container-fluid">
     <h1>Terms of Service</h1>
     <p class="strong pagemeta">
-      Last Updated August 18, 2025.
+      Last Updated September 1, 2025.
     </p>
     <p>Thanks for choosing Habitica!</p>
     <p>
