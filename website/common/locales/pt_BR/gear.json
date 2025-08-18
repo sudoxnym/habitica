@@ -3114,5 +3114,10 @@
     "armorSpecialFall2024MageText": "Armadura do Feiticeiro do Submundo",
     "armorSpecialSummer2024HealerNotes": "Não dê ouvidos aos pessimistas. Devagar e sempre é uma ótima maneira de lidar com as suas tarefas! Aumenta Constituição em <%= con %>. Item de Edição Limitada do Verão de 2024.",
     "armorSpecialFall2024RogueNotes": "Se torne um com as trevas e se torne mais ágil e furtivo com essa armadura. Aumenta Percepção em <%= per %>. Item de Edição Limitada do Outono de 2024.",
-    "armorSpecialWinter2025RogueNotes": "Por mais que pareça que você está coberto em neve fria, você está quentinho, confortável e alegre quando usa essa fantasia! Aumenta Percepção em <%= per %>. Item de Edição Limitada do Inverno de 2024-2025."
+    "armorSpecialWinter2025RogueNotes": "Por mais que pareça que você está coberto em neve fria, você está quentinho, confortável e alegre quando usa essa fantasia! Aumenta Percepção em <%= per %>. Item de Edição Limitada do Inverno de 2024-2025.",
+    "weaponSpecialSpring2025WarriorNotes": "Com um único golpe, você pode cortar caules de flores para fazer um buquê ou atravessar obstáculos para realizar suas tarefas. Aumenta a Força em <%= str %>. Equipamento de Edição Limitada da Primavera de 2025.",
+    "weaponSpecialSpring2025RogueText": "Mangual de Ponta de Cristal",
+    "weaponSpecialSpring2025HealerNotes": "Com uma onda, você pode invocar polinizadores para ajudá-lo em suas aventuras. Aumenta a Inteligência em <%= int %>. Equipamento de Edição Limitada da Primavera de 2025.",
+    "weaponSpecialSpring2025MageNotes": "Com um único golpe, você pode usar magia elemental para controlar o ambiente ao seu redor. Aproveite e avance! Aumenta a Inteligência em <%= int %> e a Percepção em <%= per %>. Edição Limitada Equipamentos da primavera de 2025",
+    "weaponSpecialSummer2025WarriorText": "Lança de vieira"
 }

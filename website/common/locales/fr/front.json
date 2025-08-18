@@ -183,5 +183,6 @@
     "incorrectResetPhrase": "Merci de taper <%= magicWord %> en lettres capitales pour réinitialiser votre compte.",
     "marketing3Lead1Title": "Applications Android et iOS",
     "marketing4Lead3Button": "Commencez dès Aujourd'hui",
-    "missingClientHeader": "En-têtes x-client manquants."
+    "missingClientHeader": "En-têtes x-client manquants introuvables.",
+    "emailBlockedRegistration": "Cette adresse mail a été bloquée par la modération. Si vous pensez qu'il s'agit d'une erreur, merci de nous contacter à admin@habitica.com."
 }

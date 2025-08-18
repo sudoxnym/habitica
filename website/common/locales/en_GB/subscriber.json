@@ -169,7 +169,7 @@
     "mysterySet202010": "Beguilingly Batty Set",
     "mysterySet202009": "Marvellous Moth Set",
     "cancelSubInfoApple": "Please follow <a href=\"https://support.apple.com/en-us/HT202039\">Apple's official instructions</a> to cancel your subscription or to see your subscription's termination date if you have already cancelled it. This screen is not able to show you whether your subscription has been cancelled.",
-    "cancelSubInfoGoogle": "Please go to the \"Account\" > \"Subscriptions\" section of the Google Play Store app to cancel your subscription or to see your subscription's termination date if you have already cancelled it. This screen is not able to show you whether your subscription has been cancelled.",
+    "cancelSubInfoGoogle": "To cancel your subscription or to view your subscription's termination date, please use the <a href='https://play.google.com/store/account/subscriptions'>Google Play Store</a>. Any leftover months of subscription credit will be added to your end date after cancellation.",
     "organization": "Organisation",
     "dropCapSubs": "Habitica subscribers can find twice as many random items each day and receive monthly mystery items!",
     "lookingForMoreItems": "Looking for More Items?",
@@ -232,5 +232,7 @@
     "mysterySet202302": "Trickster Tabby Set",
     "mysterySet202304": "Tiptop Teapot Set",
     "mysterySet202310": "Ghostlight Wraith Set",
-    "monthlyMysticHourglass": "Monthly Mystic Hourglass"
+    "monthlyMysticHourglass": "Monthly Mystic Hourglass",
+    "mysterySet202407": "Amiable Axolotl Set",
+    "mysterySet202408": "Arcane Aegis Set"
 }
