@@ -1,7 +1,7 @@
 {
     "communityGuidelinesWarning": "請記得您的暱稱、個人檔案照片和內容皆須遵守<a href='https://habitica.com/static/community-guidelines' target='_blank'>社群守則</a>（比如說：不允許猥褻行為、不允許成人議題、不允許汙辱他人等等）。如果您不確定某些事有沒有合乎規範，歡迎寫信到<%= hrefBlankCommunityManagerEmail %>！",
     "profile": "個人檔案",
-    "avatar": "客制化角色圖像",
+    "avatar": "客製化角色",
     "editAvatar": "編輯角色",
     "noDescription": "此Habitica玩家尚未新增介紹。",
     "noPhoto": "此Habitica玩家尚未新增相片。",
@@ -56,7 +56,7 @@
     "autoEquipBattleGear": "自動穿上新裝備",
     "costume": "裝扮",
     "useCostume": "使用服裝",
-    "costumePopoverText": "選擇「使用服裝」來更換角色圖像上的裝備，同時不影響戰鬥裝備的能力數值。此時您可以在右欄位為您的人物穿上最好看的服飾，同時仍配戴著最強的戰鬥裝備。",
+    "costumePopoverText": "選擇「使用服裝」來更換角色的裝備而不影響戰鬥裝備的屬性！這意味著你可以隨心所欲地為角色換上任何服裝，同時配戴最強的戰鬥裝備。",
     "autoEquipPopoverText": "開啟此選項以自動穿上您最新購買的裝備。",
     "costumeDisabled": "您已停用服裝。",
     "gearAchievement": "您已達成「終極裝備」成就：已升級到指定職業中的最高級裝備套組！您已完成下列套組：",
@@ -183,5 +183,12 @@
     "chatCastSpellParty": "<%= username %>對整個隊伍施放了<%= spell %>。",
     "chatCastSpellUser": "<%= username %>對整個隊伍施放了<%= spell %>。",
     "purchasePetItemConfirm": "您將購買物品的數目超過了您所需要用來孵化<%= itemText %>寵物的數目，您確定嗎？",
-    "notEnoughGold": "不夠金幣。"
+    "notEnoughGold": "不夠金幣。",
+    "titleHaircolor": "髮色",
+    "skins": "皮膚",
+    "customizations": "客製化",
+    "titleHairbase": "髮型",
+    "chatCastSpellPartyTimes": "<%= username %> 向隊伍詠唱<%= spell %> 了<%= times %> 次.",
+    "chatCastSpellUserTimes": "<%= username %>向<%= target %>詠唱<%= spell %>了<%= times %>次.",
+    "nextReward": "下次登入獎賞"
 }

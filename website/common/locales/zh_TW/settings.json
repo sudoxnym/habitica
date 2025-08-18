@@ -203,5 +203,6 @@
     "developerModeTooltip": "Habitica 提供了一個開發者模式，用來啟用與 Habitica API 互動的額外功能。",
     "api": "API",
     "currentPass": "目前密碼",
-    "resetDetail1": "你將失去你的等級、所有金幣和所有經驗值。"
+    "resetDetail1": "你將失去你的等級、所有金幣和所有經驗值。",
+    "changeDisplayNameDisclaimer": "這是將在 Habitica 中顯示的角色名稱。"
 }

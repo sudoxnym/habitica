@@ -256,5 +256,7 @@
     "oneMonthGift": "1ヶ月プラン",
     "selectPayment": "お支払い方法を選択する",
     "mysterySet202504": "伝説の雪男セット",
-    "mysterySet202506": "太陽の輝きセット"
+    "mysterySet202506": "太陽の輝きセット",
+    "subscriptionChangeAnnouncement": "<strong>有料プランの特典とそれの付与の方法は11/19から変わります。詳しくは</strong> <%= linkStart %>このページ</a>をご覧ください。",
+    "monthlyGemsLabel": "毎月のジェム"
 }

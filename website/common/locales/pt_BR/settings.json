@@ -255,5 +255,5 @@
     "contentRelease": "Lançamentos de Conteúdo + Eventos",
     "baileyAnnouncement": "Último Anúncio da Bailey",
     "showRaisePetModal": "Ao cuidar de um Mascote para virar Montaria",
-    "resetTextSocial": "Se você tiver certeza absoluta, digite <b>\"<%- Palavramágica $>\"</b> na caixa de texto abaixo."
+    "resetTextSocial": "Se você tiver certeza absoluta, digite <b>\"<%= magicWord %>\"</b> na caixa de texto abaixo."
 }

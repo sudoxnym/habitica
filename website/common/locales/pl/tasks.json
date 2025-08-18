@@ -135,5 +135,6 @@
     "resetCounter": "Zresetuj Licznik",
     "taskSummary": "Podsumowanie <%= type %>",
     "scoreUp": "Zwiększ statystykę",
-    "scoreDown": "Zmniejsz statystykę"
+    "scoreDown": "Zmniejsz statystykę",
+    "taskAlias": "Alias Zadania"
 }

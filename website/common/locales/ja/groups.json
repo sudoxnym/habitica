@@ -293,7 +293,7 @@
     "teamBasedTasksList": "共有タスクのボード",
     "teamBasedTasksListDesc": "グループメンバー全員が同じタスクボードで作業することで、グループ内の状況を把握することができます。共有タスクボードからタスクを完了させることも、個人のタスクにコピーして外出先で完了させることもできます。",
     "groupManagementControls": "柔軟な説明責任",
-    "groupManagementControlsDesc": "タスクが本当に完了されたかを確認するためにタスク承認機能を使いましょう。グループメンバーへ任務を共有するためのグループマネージャーを追加し、全てのチームメンバーのためのプライベートなグループチャットを楽しみましょう。",
+    "groupManagementControlsDesc": "タスクを何人かのメンバーにあてて、任務を分担したり、誰が先に完了できるかチャレンジにしたりできます。グループメンバーはタスクのステータスでお互いの進捗状況が見れます。",
     "inGameBenefits": "メリットがたくさん！",
     "inGameBenefitsDesc": "グループメンバーは、限定のジャッカロープの乗騎だけでなく、毎月の特別な装備セットや、ゴールドでジェムを買う機能など、有料プランの特典を全て受けられます。",
     "letsMakeAccount": "まずはアカウントを作成しましょう",
@@ -425,5 +425,8 @@
     "upgradeYourCrew": "チームをアップグレードする準備はできていますか？",
     "messageCopiedToClipboard": "コピーしました。",
     "createGroupToday": "グループを作成しよう！",
-    "createGroupTitle": "グループを作成する"
+    "createGroupTitle": "グループを作成する",
+    "interestedLearningMore": "もっと知りたい？",
+    "readyToUpgrade": "アップグレードしますか？",
+    "checkGroupPlanFAQ": "グループプランの機能をよりよく使う方法については<a href='/static/faq#what-is-group-plan'>よくある質問</a>をご覧ください。"
 }
