@@ -87,7 +87,7 @@
     "sync": "Sincronizar",
     "tasks": "Tareas",
     "teams": "Equipos",
-    "terms": "Términos y Condiciones",
+    "terms": "Términos del Servicio",
     "tumblr": "Tumblr",
     "localStorageTryFirst": "Si tienes algún problema con Habitica, haz clic en el botón siguiente para borrar el almacenamiento local y la mayoría de cookies de este sitio web (otros sitios web no se verán afectados). Después de hacerlo, tendrás que iniciar sesión otra vez, así que primero asegúrate de tener los datos de inicio de sesión, los cuales puedes consultar en Ajustes -> <%= linkStart %>Sitio<%= linkEnd %>.",
     "localStorageTryNext": "Si el problema persiste, <%= linkStart %>informa de un error<%= linkEnd %> si aún no lo has hecho.",

@@ -196,5 +196,8 @@
     "downloadAs": "Download como",
     "api": "API",
     "currentPass": "Palavra-passe atual",
-    "showLevelUpModal": "Quando Subir um Nível"
+    "showLevelUpModal": "Quando Subir um Nível",
+    "showHatchPetModal": "Quando chocar um Pet",
+    "showRaisePetModal": "Quando criar um Pet para ser uma montaria",
+    "showStreakModal": "Quando alcançar uma sequencia de Proezas"
 }
