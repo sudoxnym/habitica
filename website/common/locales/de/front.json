@@ -87,7 +87,7 @@
     "sync": "Synchronisieren",
     "tasks": "Aufgaben",
     "teams": "Teams",
-    "terms": "AGB",
+    "terms": "Nutzungsbedingungen",
     "tumblr": "Tumblr",
     "localStorageTryFirst": "Wenn Du Probleme mit Habitica hast, drücke den untenstehenden Knopf um lokale Browserdaten und die meisten Cookies zu löschen (andere Internetseiten sind davon nicht betroffen). Du wirst Dich danach neu einloggen müssen, damit das funktioniert, also halte Deine Anmeldedaten bereit. Du kannst sie unter Einstellungen -> <%= linkStart %>Seite<%= linkEnd %> einsehen.",
     "localStorageTryNext": "Wenn das Problem weiterhin besteht, <%= linkStart %>melde bitte einen Fehler<%= linkEnd %>, falls Du das noch nicht getan hast.",
