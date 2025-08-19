@@ -11,7 +11,7 @@ const progressCount = 1000;
 let count = 0;
 
 /*
- * Award users every extant pet and mount
+ * Award every extant piece of equippable gear
  */
 
 async function updateUser (user) {

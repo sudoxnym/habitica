@@ -10,7 +10,7 @@ function setUpServer () {
 
   setupNconf();
 
-  // We require src/server and npt src/index because
+  // We require src/server and not src/index because
   // 1. nconf is already setup
   // 2. we don't need clustering
   require('../website/server/server'); // eslint-disable-line global-require

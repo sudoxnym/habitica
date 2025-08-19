@@ -665,6 +665,15 @@ const backgrounds = {
   backgrounds082025: {
     sunny_street_with_shops: { },
   },
+  backgrounds092025: {
+    autumn_swamp: { },
+  },
+  backgrounds102025: {
+    inside_forest_witchs_cottage: { },
+  },
+  backgrounds112025: {
+    castle_keep_with_banners: { },
+  },
   eventBackgrounds: {
     birthday_bash: {
       price: 0,
