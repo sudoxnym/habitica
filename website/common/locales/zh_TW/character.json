@@ -186,7 +186,7 @@
     "notEnoughGold": "不夠金幣。",
     "titleHaircolor": "髮色",
     "skins": "皮膚",
-    "customizations": "客製化",
+    "customizations": "客製化商店",
     "titleHairbase": "髮型",
     "chatCastSpellPartyTimes": "<%= username %> 向隊伍詠唱<%= spell %> 了<%= times %> 次.",
     "chatCastSpellUserTimes": "<%= username %>向<%= target %>詠唱<%= spell %>了<%= times %>次.",

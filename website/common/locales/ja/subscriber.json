@@ -123,7 +123,7 @@
     "subscriptionBenefit1": "市場でゴールドで購入可能なジェムを最大50個得て、クエスト、カスタマイズ、ペットなどが購入できます！",
     "subscriptionBenefit3": "毎日2倍のタマゴ、たまごがえしの薬と餌を見つけてペットコレクションを増やしましょう！",
     "subscriptionBenefit4": "最新の限定装備で着飾りましょう。有料プランに登録して<%= month %>の <%= currentMysterySetName %>をゲットしよう！",
-    "subscriptionBenefit5": "初めて有料会員になったときは、ロイヤルパープルのジャッカロープのペットを受け取れます。",
+    "subscriptionBenefit5": "さっそく有料プランに登録して、特別なロイヤルパープルのジャッカロープのペットをゲットしよう！",
     "subscriptionBenefit6": "タイムトラベラーの店でアイテムを買うために神秘の砂時計を手に入れましょう！",
     "purchaseAll": "セットを購入する",
     "gemsRemaining": "残り",
@@ -149,7 +149,7 @@
     "giftASubscription": "有料プランをプレゼントする",
     "doubleDropCap": "落とし物を２倍に",
     "monthlyMysteryItems": "毎月の限定装備セット",
-    "subscribersReceiveBenefits": "有料会員はこれらの有益な特典を受けられます！",
+    "subscribersReceiveBenefits": "有料プランに登録し、さらに多くのごほうびでやる気を出そう",
     "cancelYourSubscription": "有料プランを解約しますか？",
     "needToUpdateCard": "カードを更新する必要がありますか？",
     "subscriptionInactiveDate": "有料プランの特典は<strong><%= date %></strong>に無効になります",
@@ -157,7 +157,7 @@
     "readyToResubscribe": "有料プランを再開する準備ができましたか？",
     "subscriptionCanceled": "有料プランは解約されました",
     "cancelSubAlternatives": "技術的な問題があるかHabiticaがうまく動いていないように見えるときは、<a href='mailto:admin@habitica.com'>私たちに連絡する</a>ことをご検討ください。あなたがHabiticaを最大限に楽しめるよう私たちはお役に立ちたいです。",
-    "subMonths": "有料プランの月数",
+    "subMonths": "購読した月数",
     "subscriptionStats": "有料プランのステータス",
     "mysterySet202004": "ダイオウカバマダラセット",
     "mysterySet202005": "比類無き飛竜セット",
@@ -258,5 +258,10 @@
     "mysterySet202504": "伝説の雪男セット",
     "mysterySet202506": "太陽の輝きセット",
     "subscriptionChangeAnnouncement": "<strong>有料プランの特典とそれの付与の方法は11/19から変わります。詳しくは</strong> <%= linkStart %>このページ</a>をご覧ください。",
-    "monthlyGemsLabel": "毎月のジェム"
+    "monthlyGemsLabel": "毎月のジェム",
+    "mysterySet202509": "風に吹かれた旅人セット",
+    "mysterySet202511": "霜の戦士セット",
+    "recurringNMonthly": "<%= length %>ヶ月ごとに更新されます",
+    "mysterySet202510": "空中に浮かぶグールセット",
+    "unlockNGemsGift": "受取人は毎月<strong><%= count %> 個のジェム</strong>をアンロックします"
 }
