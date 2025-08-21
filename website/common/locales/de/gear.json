@@ -3364,7 +3364,6 @@
     "headArmoireFlyFishingHatNotes": "Mit breiter Krempe und Platz für einen Ersatzköder. Du solltest nicht ohne diese Schönheit zum Fliegenfischen gehen. Erhöht Stärke und Wahrnehmung jeweils um <%= attrs %>. Verzauberter Schrank: Fliegenfischer-Set (Gegenstand 1 von 3)",
     "shieldArmoireFlyFishingRodNotes": "Hänge einen Köder an diese lange, flexible Rute und Fische werden ihn jedes Mal mit einem Insekt verwechseln. Erhöht Stärke und Intelligenz um jeweils <%= attrs %>. Verzauberter Schrank: Fliegenfischer-Set (Gegenstand 3 von 3)",
     "backMystery202506Text": "Sonnenschein-Aureole",
-    "shieldSpecialSummer2025RogueText": "Tintenfisch-Tentakel",
     "shieldSpecialSummer2025RogueNotes": "Dieser Tentakel sieht biegsam aus, aber seine Saugnäpfe greifen fest zu. Feinde, passt auf! Erhöht die Stärke um <%= str %>. Limitierte Edition Sommer 2025 Ausrüstung.",
     "shieldSpecialSummer2025HealerText": "Ruderschnecken-Schild",
     "shieldSpecialSummer2025HealerNotes": "Dieser Schild sieht einfach aus, aber er hat gesundheitsschädliche Eigenschaften. Feinde, passt auf! Erhöht die Konstitution um <%= con %>. Limitierte Edition Sommer 2025 Ausrüstung.",
