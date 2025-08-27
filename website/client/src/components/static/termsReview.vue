@@ -10,7 +10,7 @@
       Our Service is provided by HabitRPG, Inc. ("HabitRPG"). By accepting these Terms of Service and our Privacy Policy located at: <a
         href="https://habitica.com/static/privacy"
         target="_blank"
-      >https://habitica.com/static/privacy</a> (collectively, the "Agreement"), using our website, Habitica.com, or our other features or services (collectively, “the Services”, or otherwise manifesting your assent to the Agreement, you acknowledge that you have read, understood, and agree to be legally bound by the Agreement. If you do not agree to (or cannot comply with) the Agreement, you are not permitted to access or use the Service. By accepting or agreeing to this Agreement on behalf of a company or other legal entity, you represent and warrant that you have the authority to bind that company or other legal entity to the Agreement and, in such event, "you" and "your" will refer and apply to that company or other legal entity. You further represent and warrant that your assent to this Agreement constitutes an electronic signature as defined by the Electronic Signatures in Global and National Commerce Act (“E-Sign”) and the Uniform Electronic Transactions Act (“UETA”) and that you have formed, executed, entered into, and accepted the terms of and otherwise authenticated the Agreement and acknowledged and agreed that the Agreement is an electronic record for purposes of E- Sign, UETA, and the Uniform Computer Information Transactions Act and, as such, is completely valid, has legal effect, is enforceable, and is binding on, and non- refutable by, you and/or any entity on whose behalf you are acting.
+      >https://habitica.com/static/privacy</a> (collectively, the "Agreement"), using our website, Habitica.com, or our other features or services (collectively, “the Services”), or otherwise manifesting your assent to the Agreement, you acknowledge that you have read, understood, and agree to be legally bound by the Agreement. If you do not agree to (or cannot comply with) the Agreement, you are not permitted to access or use the Service. By accepting or agreeing to this Agreement on behalf of a company or other legal entity, you represent and warrant that you have the authority to bind that company or other legal entity to the Agreement and, in such event, "you" and "your" will refer and apply to that company or other legal entity. You further represent and warrant that your assent to this Agreement constitutes an electronic signature as defined by the Electronic Signatures in Global and National Commerce Act (“E-Sign”) and the Uniform Electronic Transactions Act (“UETA”) and that you have formed, executed, entered into, and accepted the terms of and otherwise authenticated the Agreement and acknowledged and agreed that the Agreement is an electronic record for purposes of E- Sign, UETA, and the Uniform Computer Information Transactions Act and, as such, is completely valid, has legal effect, is enforceable, and is binding on, and non- refutable by, you and/or any entity on whose behalf you are acting.
     </p>
     <p class="strong">
       THE SECTIONS BELOW TITLED "BINDING ARBITRATION' AND "CLASS ACTION WAIVER" CONTAIN A BINDING ARBITRATION AGREEMENT AND CLASS ACTION WAIVER. THEY AFFECT YOUR LEGAL RIGHTS. PLEASE READ THEM CAREFULLY.
@@ -68,7 +68,7 @@
       Outside the above explicitly allowed use cases, you may not use our trademarks, service marks, trade names, logos, domain names, taglines, or trade dress without a signed written contract with us granting you a license to do so.
     </p>
 
-    <h2>Modifying and Termination of Service</h2>
+    <h2>Modification and Termination of Service</h2>
     <p>
       HabitRPG reserves the right, in its sole discretion, to add, modify, or remove functionalities or features from the Service, and improve, change and/or update the Service. We may also suspend or terminate the Service at any time, with or without notice to you.
     </p>
@@ -81,7 +81,9 @@
       <li>Doing so would be in the best interests of our community, the Service, or the rights of a third party.</li>
     </ul>
     <p>
-      If your account is terminated, you will no longer have access to it, including to any of the associated data or Content. You will not be entitled to any refunds and we will have no liability to you. We also reserve the right to terminate any other accounts you may have created, as well as access to any other HabitRPG Service (also without refunds or liability to you).
+      If your account is terminated, you will no longer have access to it, including to any of the associated data or Content. We also reserve the right to terminate any other accounts you may have created, as well as access to any other HabitRPG Service.
+    </p>
+    <p>
       You understand and agree that using the Service comes with the risk that your account may be terminated or suspended at our discretion and at any time. Please keep this risk in mind and comport yourself appropriately.
     </p>
 
@@ -156,7 +158,7 @@
       BY PURCHASING PREMIUM YOU EXPRESSLY UNDERSTAND AND AGREE TO OUR REFUND POLICY:
     </p>
     <p>
-      WITHIN THIRTY (30) DAYS OF YOUR PREMIUM PAYMENT DATE AS SHOWN ON YOUR PAYMENT BILL, YOU CAN REQUEST A FULL REFUND BY CONTACTING US AT <a href="mailto:admin@habitica.com">ADMIN@HABITICA.COM</a>. AFTER THIRTY (30) DAYS OF YOUR PREMIUM PAYMENT DATE, ANY PAYMENT REFUND IS SOLELY SUBJECT TO OUR DISCRETION. THE REFUND SHALL BE YOUR SOLE AND EXCLUSIVE REMEDY.
+      YOU CAN REQUEST A REFUND OF YOUR MOST RECENT PAYMENT TO US BY CONTACTING US AT <a href='mailto:admin@habitica.com'>ADMIN@HABITICA.COM</a>. THE AMOUNT OF YOUR REFUND, IF ANY, WILL BE BASED ON (1) THE AMOUNT OF YOUR PURCHASED BUT UNUSED SUBSCRIPTION BENEFITS AND (2) THE TERMS IMPOSED ON US BY OUR PAYMENT PROCESSING VENDORS (E.G., WITH RESPECT TO THE DURATION OF THE REFUND PERIOD).
     </p>
     <p>
       FOR ANY CUSTOMER WHO PURCHASED PREMIUM IN APPLE INC.'s APP STORE ("APP STORE"), PLEASE CONTACT APPLE INC.'s SUPPORT TEAM: <a
