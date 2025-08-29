@@ -617,7 +617,7 @@
       7. General Audience Services
     </h2>
     <p>
-      The Service are intended for users 13 years or older; you are not permitted to access or use the Service if you are younger than 13. We do not knowingly collect personal information from children under the age of 13 through the Service. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children to never provide personal information without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us, please contact us at <a href="mailto:privacy@habitica.com">privacy@habitica.com</a>, and we will delete that information from our databases.
+      The Service is intended for users 18 years or older; you are not permitted to access or use the Service if you are younger than 18. We do not knowingly collect personal information from children under the age of 18 through the Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide personal information without their permission. If you have reason to believe that a child under the age of 18 has provided personal information to us, please contact us at <a href='mailto:privacy@habitica.com'>privacy@habitica.com</a>, and we will delete that information from our databases.
     </p>
 
     <h2 id="section_8">
