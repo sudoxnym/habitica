@@ -2,6 +2,7 @@ import _ from 'lodash';
 import nconf from 'nconf';
 import apn from '@parse/node-apn';
 import admin from 'firebase-admin';
+import got from 'got';
 import logger from './logger';
 import { // eslint-disable-line import/no-cycle
   model as User,
@@ -116,6 +117,72 @@ async function sendAPNNotification (user, pushDevice, details, payload) {
   }
 }
 
+async function sendUnifiedPushNotification (user, pushDevice, details, payload) {
+  const unifiedPushBaseUrl = nconf.get('PUSH_CONFIGS_UNIFIEDPUSH_URL');
+  const unifiedPushAuthHeader = nconf.get('PUSH_CONFIGS_UNIFIEDPUSH_AUTHORIZATION');
+
+  let endpoint = pushDevice.regId;
+  let resolvedEndpoint;
+
+  try {
+    if (/^https?:\/\//i.test(endpoint)) {
+      resolvedEndpoint = endpoint;
+    } else if (unifiedPushBaseUrl) {
+      resolvedEndpoint = new URL(endpoint, unifiedPushBaseUrl).toString();
+    } else {
+      throw new Error('Unified Push regId is not a full URL and no base URL configured');
+    }
+  } catch (err) {
+    logger.error(err, {
+      extraMessage: 'Unable to resolve Unified Push endpoint.',
+      regId: pushDevice.regId,
+      userId: user._id,
+    });
+    return;
+  }
+
+  const body = {
+    title: details.title,
+    message: details.message,
+    identifier: details.identifier,
+    payload,
+  };
+
+  const options = {
+    json: body,
+    timeout: 30000,
+  };
+
+  if (unifiedPushAuthHeader) {
+    options.headers = {
+      Authorization: unifiedPushAuthHeader,
+    };
+  }
+
+  try {
+    await got.post(resolvedEndpoint, options);
+  } catch (err) {
+    const statusCode = err?.response?.statusCode;
+
+    if (statusCode && [404, 410].includes(statusCode)) {
+      removePushDevice(user, pushDevice);
+      logger.error(new Error('Unified Push endpoint is no longer valid'), {
+        regId: pushDevice.regId,
+        userId: user._id,
+        statusCode,
+      });
+      return;
+    }
+
+    logger.error(err, {
+      extraMessage: 'Unhandled Unified Push error.',
+      regId: pushDevice.regId,
+      userId: user._id,
+      statusCode,
+    });
+  }
+}
+
 export async function sendNotification (user, details = {}) {
   if (!user) throw new Error('User is required.');
   if (user.preferences.pushNotifications.unsubscribeFromAll === true) return;
@@ -147,6 +214,9 @@ export async function sendNotification (user, details = {}) {
         break;
       case 'ios':
         sendAPNNotification(user, pushDevice, details, payload);
+        break;
+      case 'unifiedpush':
+        await sendUnifiedPushNotification(user, pushDevice, details, payload);
         break;
     }
   });

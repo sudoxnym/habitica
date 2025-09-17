@@ -2,6 +2,7 @@ import apn from '@parse/node-apn';
 import _ from 'lodash';
 import nconf from 'nconf';
 import admin from 'firebase-admin';
+import got from 'got';
 import { model as User } from '../../../../website/server/models/user';
 import {
   MAX_MESSAGE_LENGTH,
@@ -15,6 +16,7 @@ describe('pushNotifications', () => {
   let apnSendSpy;
   let updateStub;
   let classStubbedInstance;
+  let gotPostStub;
 
   const identifier = 'identifier';
   const title = 'title';
@@ -24,8 +26,10 @@ describe('pushNotifications', () => {
     user = new User();
     fcmSendSpy = sinon.stub().returns(Promise.resolve('success'));
     apnSendSpy = sinon.stub().returns(Promise.resolve());
+    gotPostStub = sandbox.stub(got, 'post').resolves();
 
     nconf.set('PUSH_CONFIGS_APN_ENABLED', 'true');
+    nconf.set('PUSH_CONFIGS_UNIFIEDPUSH_URL', 'https://push.example.com/');
 
     classStubbedInstance = sandbox.createStubInstance(apn.Provider, {
       send: apnSendSpy,
@@ -197,6 +201,7 @@ describe('pushNotifications', () => {
       expect(apnSendSpy).to.have.been.calledOnce;
       expect(apnSendSpy).to.have.been.calledWithMatch(expectedNotification, '123');
       expect(fcmSendSpy).to.not.have.been.called;
+      expect(gotPostStub).to.not.have.been.called;
     });
 
     it('uses FCM for Android devices', async () => {
@@ -221,6 +226,49 @@ describe('pushNotifications', () => {
       expect(fcmSendSpy).to.have.been.calledOnce;
       expect(fcmSendSpy).to.have.been.calledWithMatch(expectedMessage);
       expect(apnSendSpy).to.not.have.been.called;
+      expect(gotPostStub).to.not.have.been.called;
+    });
+
+    it('uses UnifiedPush for unified push devices with base url', async () => {
+      user.pushDevices.push({
+        type: 'unifiedpush',
+        regId: 'abc123',
+      });
+
+      await sendPushNotification(user, details);
+
+      expect(gotPostStub).to.have.been.calledOnce;
+      expect(gotPostStub).to.have.been.calledWithMatch('https://push.example.com/abc123', {
+        json: {
+          title,
+          message,
+          identifier,
+          payload: {
+            identifier,
+            a: true,
+            b: true,
+          },
+        },
+      });
+      expect(fcmSendSpy).to.not.have.been.called;
+      expect(apnSendSpy).to.not.have.been.called;
+    });
+
+    it('uses UnifiedPush for devices with absolute endpoints', async () => {
+      user.pushDevices.push({
+        type: 'unifiedpush',
+        regId: 'https://custom.endpoint/token',
+      });
+
+      await sendPushNotification(user, details);
+
+      expect(gotPostStub).to.have.been.calledOnce;
+      expect(gotPostStub).to.have.been.calledWithMatch(
+        'https://custom.endpoint/token',
+        sinon.match.object,
+      );
+      expect(fcmSendSpy).to.not.have.been.called;
+      expect(apnSendSpy).to.not.have.been.called;
     });
 
     it('handles multiple devices', async () => {
@@ -236,13 +284,17 @@ describe('pushNotifications', () => {
         type: 'android',
         regId: '789',
       });
+      user.pushDevices.push({
+        type: 'unifiedpush',
+        regId: 'unified',
+      });
 
       await sendPushNotification(user, details);
       expect(fcmSendSpy).to.have.been.calledTwice;
       expect(apnSendSpy).to.have.been.calledOnce;
+      expect(gotPostStub).to.have.been.calledOnce;
     });
   });
-
   describe('handles sending errors', () => {
     let clock;
 
@@ -324,6 +376,29 @@ describe('pushNotifications', () => {
       expect(updateStub).to.have.been.calledOnce;
     });
 
+    it('removes invalid unified push devices when endpoint gone', async () => {
+      user.pushDevices.push({
+        type: 'unifiedpush',
+        regId: 'unified',
+      });
+
+      const error = new Error('gone');
+      error.response = { statusCode: 410 };
+      gotPostStub.rejects(error);
+
+      await sendPushNotification(user, {
+        identifier,
+        title,
+        message,
+      });
+
+      expect(gotPostStub).to.have.been.calledOnce;
+      expect(fcmSendSpy).to.not.have.been.called;
+      expect(apnSendSpy).to.not.have.been.called;
+      await clock.tick(10);
+      expect(updateStub).to.have.been.calledOnce;
+    });
+
     it('removes invalid apn devices', async () => {
       user.pushDevices.push({
         type: 'ios',
@@ -350,5 +425,6 @@ describe('pushNotifications', () => {
       expect(apnSendSpy).to.have.been.calledOnce;
       expect(updateStub).to.have.been.calledOnce;
     });
+
   });
 });

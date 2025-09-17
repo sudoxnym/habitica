@@ -58,6 +58,8 @@
   "PUSH_CONFIGS_APN_KEY_ID": "xxxxxxxxxx",
   "PUSH_CONFIGS_APN_TEAM_ID": "aaabbbcccd",
   "PUSH_CONFIGS_FCM_SERVER_API_KEY": "aaabbbcccd",
+  "PUSH_CONFIGS_UNIFIEDPUSH_URL": "",
+  "PUSH_CONFIGS_UNIFIEDPUSH_AUTHORIZATION": "",
   "S3_ACCESS_KEY_ID": "accessKeyId",
   "S3_BUCKET": "bucket",
   "S3_SECRET_ACCESS_KEY": "secretAccessKey",

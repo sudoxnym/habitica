@@ -6,7 +6,7 @@ const { Schema } = mongoose;
 
 export const schema = new Schema({
   regId: { $type: String, required: true },
-  type: { $type: String, required: true, enum: ['ios', 'android'] },
+  type: { $type: String, required: true, enum: ['ios', 'android', 'unifiedpush'] },
 }, {
   strict: true,
   minimize: false, // So empty objects are returned
