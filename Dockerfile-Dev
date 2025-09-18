@@ -8,6 +8,8 @@ WORKDIR /usr/src/habitica
 COPY ["package.json", "package-lock.json", "./"]
 # Copy the remaining source files in.
 COPY . /usr/src/habitica
+# Provide a default configuration for build-time tooling
+RUN cp config.json.example config.json
 # Install dependencies
 RUN npm install
 RUN npm run postinstall
